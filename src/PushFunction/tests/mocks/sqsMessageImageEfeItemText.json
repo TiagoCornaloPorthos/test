@@ -1,0 +1,33 @@
+{
+    "Records": [
+        {
+            "messageId": "19dd0b57-b21e-4ac1-bd88-01bbb068cb79",
+            "receiptHandle": "MessageReceiptHandle",
+            "body": {"packageInfo":{"id":55005636612,"version":1,"format":{"id":2,"description":"Foto"},"date":"20210303T190153Z","firstCreated":"20210303T144413Z","guide":"USA SENATE CAPITOL ATTACK","guideComplements":[],"title":"Joint Senate Hearing on the January 6th Attack on the Captiol","subtitle":"","summary":"","text":"Washington (United States), 03/03/2021.- Sen. Rand Paul (R-Ky.) ask questions during a Senate Homeland Security and Governmental Affairs & Senate Rules and Administration joint hearing to discuss the January 6th attack on the US Capitol, in Washington, DC, USA, on 03 March 2021. (Atentado, Lanzamiento de disco, Estados Unidos) EFE/EPA/Greg Nash / POOL\\n","wordsCount":56,"keyWords":[],"metaData":{"classification":{"id":1,"description":"Actualidad"},"langCode":"en","relevance":{"id":5,"description":"Normal"},"iptcList":[{"code":"11006000","descriptionlevel1":"Política","descriptionlevel2":"Gobierno","descriptionlevel3":""}],"geoProperties":{"area":"Norteamérica/Caribe","countryCode":"US","region":"DC","city":"Washington"},"source":"EPA/The Hill POOL","credit":"EFE","editor":"","authors":["Greg Nash / POOL"]},"objectsCount":{"total":1,"texts":0,"photos":1,"infographics":0,"audios":0,"videos":0,"files":0}},"objects":[{"id":55005636612001,"idSourceFrom":0,"format":{"id":2,"description":"Foto"},"date":"20210303T190100Z","firstCreated":"20210303T144400Z","guide":"USA SENATE CAPITOL ATTACK","guideComplements":[],"title":"Joint Senate Hearing on the January 6th Attack on the Captiol","subtitle":"","summary":"","text":"Washington (United States), 03/03/2021.- Sen. Rand Paul (R-Ky.) ask questions during a Senate Homeland Security and Governmental Affairs & Senate Rules and Administration joint hearing to discuss the January 6th attack on the US Capitol, in Washington, DC, USA, on 03 March 2021. (Atentado, Lanzamiento de disco, Estados Unidos) EFE/EPA/Greg Nash / POOL\\n","wordsCount":56,"keyWords":[],"tabSeparatedText":false,"richText":false,"imageProperties":{"orientation":{"code":"H","description":"Horizontal"},"color":{"code":"C","description":"Color"},"plane":{}},"metaData":{"langCode":"en","relevance":{"id":5,"description":"Normal"},"iptcList":[{"code":"11006000","descriptionlevel1":"Política","descriptionlevel2":"Gobierno","descriptionlevel3":""}],"geoProperties":{"area":"Norteamérica/Caribe","countryCode":"US","region":"DC","city":"Washington"},"source":"EPA/The Hill POOL","credit":"EFE","editor":"cs","authors":[]},"files":[{"fileName":"0057b1aefcc0ab0a0abd02e7211219f2337ab0e1.jpg","url":"https://apinews.efeservicios.com/files/get/CfDJ8O4n3uYwrW1OsdKmgoLvG9yFhVmmJbLPZxekgOIxEmfRk7ziQRvd0e8P6H2Zdleor3eUR_lCywmB7fPnzPb044Vda_4dGKU1rMmgdTzKaW0GSnN5guDnacEC1RKrwkJ4h_cpJ3yNP6Jpk7FKcFPirktpJILvD3jdOCpQvH_6HTGkZjOipdZLBiNxpkPcbi0FSFM31sADJWUIhma2lXnxXLizIwNpyF45qKSgkJJn017m","mimeType":"image/jpeg","width":3000,"height":2000,"bpp":24,"bitrateKbps":0,"sizeBytes":1489389},{"fileName":"0057b1aefcc0ab0a0abd02e7211219f2337ab0e1p.jpg","url":"https://apinews.efeservicios.com/files/get/CfDJ8O4n3uYwrW1OsdKmgoLvG9yOsbw0TasT0vtSKNKuQ6Z2THBoevsgMErpjGb2bsn6LfCpfTiD6imBC8D0OX1qvwMby197HxbicKyPSE6oDjiZF5kTR0hAZpauuriRbqusTkNA7QCVF83letCIICesIz1YopWPitLZpX9jb-Cl9SDNKo9fYjEbxFa5IhYaNEa5cbuFMLBo-YlK2oMPAp9-nVRphd7Rvhb_F9T1RiQGDco1","mimeType":"image/jpeg","width":300,"height":200,"bpp":32,"bitrateKbps":0,"sizeBytes":8855},{"fileName":"0057b1aefcc0ab0a0abd02e7211219f2337ab0e1m.jpg","url":"https://apinews.efeservicios.com/files/get/CfDJ8O4n3uYwrW1OsdKmgoLvG9xVz5QbyFRpNd5uS5njUmc8wmvyLVw8IRrsGJQzSQcN16UYZtokKZd4SHh0kCRaiwOoygaQNRJO_Dqe_Lj8adclizIesHpOd4MCuThiA18mxkGMLjgaWG_73b9J25l-rtXfwID4NcMurPIYuCxOwA-BjVh_Ak1Sx2oiazq_asCccyCoJH23p_ky0Ya1YQZjdEff3owzME4rYudNDmnG0TjQ","mimeType":"image/jpeg","width":600,"height":400,"bpp":32,"bitrateKbps":0,"sizeBytes":23028},{"fileName":"0057b1aefcc0ab0a0abd02e7211219f2337ab0e1w.jpg","url":"https://apinews.efeservicios.com/files/get/CfDJ8O4n3uYwrW1OsdKmgoLvG9yaTGdsyOEsWL2Hw0XSKmaelYS7wXqgSFR_44ykQcEriapwNiqFGvAeZwrrYLZUQCnjmuDT-2rCaE-iQctpevMgAVv_KSwTcqjbjjbq5WE3zaBGcHwVqExHVpE7vePw5-jn1acS69SGqKrbZhooVoe9nB-Il0ybCNAgQqj0anl5bcW7I0sY4QU2C4CZLVlegJ02F5IVYidq3bE9dH7sPR6o","mimeType":"image/jpeg","width":900,"height":600,"bpp":24,"bitrateKbps":0,"sizeBytes":43727}]}]},
+            "attributes": {
+                "ApproximateReceiveCount": "1",
+                "SentTimestamp": "1523232000000",
+                "SenderId": "123456789012",
+                "ApproximateFirstReceiveTimestamp": "1523232000001"
+            },
+            "messageAttributes": {
+                "ContentId": {
+                    "DataType": "String",
+                    "StringValue": "55004133868"
+                },
+                "Source": {
+                    "DataType": "String",
+                    "StringValue": "efeservicios"
+                },
+                "Publish": {
+                    "DataType": "Number",
+                    "StringValue": "1"
+                }
+            },
+            "md5OfBody": "7b270e59b47ff90a553787216d55d91d",
+            "eventSource": "aws:sqs",
+            "eventSourceARN": "arn:aws:sqs:us-east-1:123456789012:MyQueue",
+            "awsRegion": "us-east-1"
+        }
+    ]
+}

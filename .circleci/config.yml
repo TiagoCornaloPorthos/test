@@ -1,0 +1,139 @@
+version: 2.1
+
+filters:
+  ignore_master: &ignore_master
+    branches:
+      ignore: master
+  only_master: &only_master
+    branches:
+      only: master
+  only_tagged_release: &only_tagged_release
+    branches:
+      ignore: /.*/
+    tags:
+      only: /^v\d+(\.\d+){2}$/
+
+sam_cli_docker_image: &sam_cli_docker_image
+  docker:
+    - image: artear/inbound-wires-sam-cli
+      auth:
+        username: ${DOCKERHUB_USERNAME}
+        password: ${DOCKERHUB_PASSWORD}
+
+orbs:
+  node: circleci/node@3.0.0
+
+jobs:
+  validate_sam_template:
+    description: Validate AWS SAM Template
+    <<: *sam_cli_docker_image
+    steps:
+      - checkout
+      - run:
+          name: Validate SAM Template
+          command: make validate
+
+  deploy_app:
+    description: Build and deploy app
+    <<: *sam_cli_docker_image
+    steps:
+      - checkout
+      - run:
+          name: Build SAM application
+          command: |
+            sam build -t template.yaml \
+              --region ${AWS_DEFAULT_REGION}
+      - run:
+          name: Deploy SAM app
+          command: |
+            sam deploy \
+              --capabilities CAPABILITY_IAM \
+              --stack-name ${CIRCLE_PROJECT_REPONAME}-${ENV} \
+              --region ${AWS_DEFAULT_REGION} \
+              --s3-bucket ${AWS_DEPLOYMENT_S3_BUCKET_NAME} \
+              --s3-prefix ${CIRCLE_PROJECT_REPONAME}-${ENV} \
+              --parameter-overrides \
+                EfeserviciosApiHostUrl=${EFESERVICIOS_API_HOST_URL} \
+                EfeserviciosApiClientId=${EFESERVICIOS_API_CLIENT_ID} \
+                EfeserviciosApiClientSecret=${EFESERVICIOS_API_CLIENT_SECRET} \
+                ArcApiHostUrl=${ARC_API_HOST_URL} \
+                ArcApiAccessToken=${ARC_API_ACCESS_TOKEN} \
+                AfpApiHostUrl=${AFP_API_HOST_URL} \
+                AfpApiUsername=${AFP_API_USERNAME} \
+                AfpApiPassword=${AFP_API_PASSWORD} \
+                AfpApiClientId=${AFP_API_CLIENT_ID} \
+                AfpApiClientSecret=${AFP_API_CLIENT_SECRET} \
+                Env=${ENV}
+
+workflows:
+  test_branch:
+    jobs:
+      - validate_sam_template:
+          name: 'Validate AWS SAM Template'
+          filters:
+            <<: *ignore_master
+      - node/test: &test_functions
+          name: 'Test <<matrix.app-dir>>'
+          version: '12.16.3'
+          setup:
+            - run:
+                name: Install Lambda Layer NPM packages
+                command: |
+                  cd src/layers/LibLayer/;
+                  npm ci;
+          matrix:
+            alias: test_functions
+            parameters:
+              app-dir:
+                - 'src/FetchFunction'
+                - 'src/PushFunction'
+          filters:
+            <<: *ignore_master
+      - node/test: &test_layers
+          name: 'Test <<matrix.app-dir>>'
+          version: '12.16.3'
+          matrix:
+            alias: test_layers
+            parameters:
+              app-dir:
+                - 'src/layers/LibLayer'
+          filters:
+            <<: *ignore_master
+
+  deploy_stg:
+    jobs:
+      - node/test:
+          <<: *test_functions
+          filters:
+            <<: *only_master
+      - node/test:
+          <<: *test_layers
+          filters:
+            <<: *only_master
+      - deploy_app:
+          name: Build and deploy app
+          requires:
+            - test_layers
+            - test_functions
+          context: inbound-wires-stg
+          filters:
+            <<: *only_master
+
+  deploy_prod:
+    jobs:
+      - node/test:
+          <<: *test_functions
+          filters:
+            <<: *only_tagged_release
+      - node/test:
+          <<: *test_layers
+          filters:
+            <<: *only_tagged_release
+      - deploy_app:
+          name: Build and deploy app
+          requires:
+            - test_layers
+            - test_functions
+          context: inbound-wires-prd
+          filters:
+            <<: *only_tagged_release

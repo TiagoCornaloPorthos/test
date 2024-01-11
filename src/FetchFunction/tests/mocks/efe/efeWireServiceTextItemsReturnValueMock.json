@@ -1,0 +1,846 @@
+[
+  {
+    "packageInfo": {
+      "id": 55004838620,
+      "version": 3,
+      "format": {
+        "id": 1,
+        "description": "Texto"
+      },
+      "date": "20201102T151535Z",
+      "firstCreated": "20201102T120059Z",
+      "guide": "SRI LANKA BALLENAS",
+      "guideComplements": [],
+      "title": "Decenas de ballenas piloto encallan en la costa de Sri Lanka",
+      "subtitle": "",
+      "summary": "",
+      "text": "Colombo, 2 nov (EFE).- Decenas de ballenas piloto de aleta corta fueron encontradas este lunes varadas en la costa de Sri Lanka, donde las autoridades de la nación isleña intentan devolver a los animales a aguas profundas.\nEl grupo de unos 60 mamíferos marinos encalló en la playa de Panadura, en la costa occidental de Sri Lanka y a unos treinta kilómetros al sur de Colombo, desatando las alarmas entre los protectores de los animales.\n\"Hay una alta posibilidad de que sus órganos internos hayan sufrido daños, y es muy posible que mueran\", afirmó a Efe el director genera de la Autoridad esrilanquesa para la Protección del Medio Ambiente Marino (MEPA, en inglés), Terney Pradeep Kumara.\nLa fuente apuntó a que las ballenas piloto podrían haberse sumergido en las profundidades al verse afectados por el sónar de un barco, desorientando al grupo y causando una saturación de los niveles de oxígeno en sangre potencialmente mortal.\n\"Puede que veamos más ballenas siguiendo a este grupo en la misma zona\", advirtió Kumara.\nTanto los guardacostas como la Marina esrilanquesa están intentando por el momento mover a las ballenas fuera de la costa, una opción que según afirmó a Efe el director general del Departamento de Conservación de Fauna (DWC, en inglés), Chandana Sooriyabandara, todavía es viable.\nLas ballenas piloto miden entre 3,6 y 7 metros y no son vistas con la misma frecuencia que otras especies de ballenas, debido a que tienden a estar en aguas muy profundas. Esta especie es de distribución mundial, ya que disfruta tanto del trópico como de aguas templadas. EFE\naw-daa/mah\n(foto)(vídeo)\n",
+      "wordsCount": 269,
+      "keyWords": [],
+      "metaData": {
+        "classification": {
+          "id": 1,
+          "description": "Actualidad"
+        },
+        "langCode": "es",
+        "relevance": {
+          "id": 5,
+          "description": "Normal"
+        },
+        "iptcList": [
+          {
+            "code": "08001000",
+            "descriptionlevel1": "Interés humano",
+            "descriptionlevel2": "Animales",
+            "descriptionlevel3": ""
+          }
+        ],
+        "geoProperties": {
+          "area": "Asia",
+          "countryCode": "IN",
+          "city": "Colombo"
+        },
+        "source": "EFE",
+        "credit": "EFE",
+        "editor": "",
+        "authors": []
+      },
+      "objectsCount": {
+        "total": 1,
+        "texts": 1,
+        "photos": 0,
+        "infographics": 0,
+        "audios": 0,
+        "videos": 0,
+        "files": 0
+      }
+    },
+    "objects": [
+      {
+        "id": 55004838620001,
+        "format": {
+          "id": 1,
+          "description": "Texto"
+        },
+        "date": "20201102T151500Z",
+        "firstCreated": "20201102T120000Z",
+        "guide": "SRI LANKA BALLENAS",
+        "guideComplements": [],
+        "title": "Decenas de ballenas piloto encallan en la costa de Sri Lanka",
+        "subtitle": "",
+        "summary": "",
+        "text": "Colombo, 2 nov (EFE).- Decenas de ballenas piloto de aleta corta fueron encontradas este lunes varadas en la costa de Sri Lanka, donde las autoridades de la nación isleña intentan devolver a los animales a aguas profundas.\nEl grupo de unos 60 mamíferos marinos encalló en la playa de Panadura, en la costa occidental de Sri Lanka y a unos treinta kilómetros al sur de Colombo, desatando las alarmas entre los protectores de los animales.\n\"Hay una alta posibilidad de que sus órganos internos hayan sufrido daños, y es muy posible que mueran\", afirmó a Efe el director genera de la Autoridad esrilanquesa para la Protección del Medio Ambiente Marino (MEPA, en inglés), Terney Pradeep Kumara.\nLa fuente apuntó a que las ballenas piloto podrían haberse sumergido en las profundidades al verse afectados por el sónar de un barco, desorientando al grupo y causando una saturación de los niveles de oxígeno en sangre potencialmente mortal.\n\"Puede que veamos más ballenas siguiendo a este grupo en la misma zona\", advirtió Kumara.\nTanto los guardacostas como la Marina esrilanquesa están intentando por el momento mover a las ballenas fuera de la costa, una opción que según afirmó a Efe el director general del Departamento de Conservación de Fauna (DWC, en inglés), Chandana Sooriyabandara, todavía es viable.\nLas ballenas piloto miden entre 3,6 y 7 metros y no son vistas con la misma frecuencia que otras especies de ballenas, debido a que tienden a estar en aguas muy profundas. Esta especie es de distribución mundial, ya que disfruta tanto del trópico como de aguas templadas. EFE\naw-daa/mah\n(foto)(vídeo)\n",
+        "wordsCount": 269,
+        "keyWords": [],
+        "tabSeparatedText": false,
+        "richText": false,
+        "metaData": {
+          "langCode": "es",
+          "relevance": {
+            "id": 5,
+            "description": "Normal"
+          },
+          "iptcList": [
+            {
+              "code": "08001000",
+              "descriptionlevel1": "Interés humano",
+              "descriptionlevel2": "Animales",
+              "descriptionlevel3": ""
+            }
+          ],
+          "geoProperties": {
+            "area": "Asia",
+            "countryCode": "IN",
+            "city": "Colombo"
+          },
+          "source": "EFE",
+          "credit": "EFE",
+          "editor": "",
+          "authors": []
+        }
+      }
+    ]
+  },
+  {
+    "packageInfo": {
+      "id": 55004838617,
+      "version": 3,
+      "format": {
+        "id": 1,
+        "description": "Texto"
+      },
+      "date": "20201102T151446Z",
+      "firstCreated": "20201102T120059Z",
+      "guide": "AGENDA INFORMATIVA TV",
+      "guideComplements": [],
+      "title": "Agenda informativa TV América para el 2 de noviembre de 2020",
+      "subtitle": "",
+      "summary": "",
+      "text": "Bogotá, 2 nov (EFE).-\n.- Varias ciudades (EE.UU.).- Estados Unidos vive con expectación las últimas horas de campaña antes de la jornada histórica y decisiva del martes electoral.\n.- Washington (Estados Unidos).- El presidente de Estados Unidos, Donald Trump, y su rival demócrata, Joe Biden, apuran sus últimas horas de campaña antes de las elecciones de este martes, que han dividido a un país sumido en la crisis económica y azotado como ningún otro por la pandemia del coronavirus.\n.- Filadelfia/Detroit/Austin (Estados Unidos) - La demografía de Estados Unidos cambia y, a la vez, irrumpen en la lista de estados claves, aquellos que decidirán las elecciones, algunos que hasta hace poco eran considerados territorios seguros: Pensilvania, Michigan e, incluso, Texas podría abandonar a los republicanos.\n.- Washington (Estados Unidos).- Un mar de gorras rojas espera a Donald Trump en la pista de un aeropuerto; una sinfonía de cláxones suena en un aparcamiento por Joe Biden. El escenario es parte del mensaje en estas elecciones, y los mítines de los candidatos han contado la historia de dos campañas diametralmente opuestas.\n.- Miami (Estados Unidos).- El expresidente Barack Obama, una figura carismática para hispanos y afroamericanos, dará este lunes el impuso final a la campaña del candidato demócrata Joe Biden en Florida, un estado en empate técnico y que el republicano Donald Trump no puede perder si quiere repetir la historia de 2016.\n.- San Juan (Puerto Rico).- Tras la resaca del fin de campaña para las elecciones generales del 3 de noviembre, Puerto Rico se alista para unos comicios en los que nuevos y pequeños partidos podrían restar votos a los dos principales, el gobernante Partido Nuevo Progresista (PNP) y el Partido Popular Democrático (PPD), en la oposición.\n.- Lima (Perú).- El Congreso peruano decide si admite a debate una moción de destitución del presidente Martín Vizcarra, presentada por un sector de la oposición política por una presunta \"incapacidad moral\" del gobernante para seguir en el cargo.\n.- Ciudad de México (México).- México culmina tres días de luto nacional por los más de 90.000 fallecidos que ha dejado la pandemia del coronavirus con un ceremonia indígena en Palacio Nacional.\n.- Buenos Aires (Argentina).- Las cinco claves que explican el dramático avance de la pandemia en Argentina, que pasó de estar controlada durante los primeros meses a escalar en gravedad y acumular hasta ahora casi 1,2 millones de contagiados y 31.140 muertes.\n.- San José (Costa Rica).- Costa Rica abre sus fronteras aéreas por completo y comienza una nueva etapa de atracción de turistas en el contexto de la pandemia de covid-19.\n.- Tegucigalpa (Honduras).- La crisis de la covid-19 puede ser una \"oportunidad\" para que Honduras avance hacia la conectividad para mejorar la educación, la salud y la transparencia, dice en entrevista con Efe el director regional del PNUD para América Latina y el Caribe, Luis Felipe López-Calva.\n.- San Salvador (El Salvador).- El colectivo Salvadoreños Construyendo Memoria realiza una actividad en memoria de los muertos y desaparecidos por fuerzas estatales.\n.- Sao Paulo (Brasil).- \"Marcha para Jesús\", evento organizado por diferentes grupos evangélicos en Brasil.\n.- Santo Domingo (República Dominicana).- República Dominicana inicia el año escolar de manera 100% virtual, con clases por televisión, debido a la pandemia.\n.- Río de Janeiro (Brasil).- El arzobispo de Río de Janeiro, Orani Tempesta, encabeza un acto en homenaje a los científicos brasileños que encabezan la lucha contra el coronavirus.\n.- Chiapas (México).- Los pueblos indígenas de los altos de Chiapas conciben el Día de Muertos como la fiesta del alma (k'in ch'ulelal, en tzotzil) y ofrendan velas, comida, posh (bebida sagrada), incienso, flores y juncia en agradecimiento por los bienes que les fueron heredados a sus descendientes.\n.- Ciudad de Panamá (Panamá).- Conmemoración del Día de los Difuntos en medio del llamado oficial a evitar las aglomeraciones ante el riesgo de la covid-19.\n.- La Paz (Bolivia).- La celebración de Todos Santos está marcada este año en ciudades bolivianas como La Paz por el recuerdo a los fallecidos por covid-19.\n.- Managua (Nicaragua).- Los nicaragüenses acuden a los camposantos para conmemorar el Día de los Muertos.\n.- Lima (Perú).-  Lima vive una revolución. Ante la cruel dictadura del coche que hace de la capital peruana una de las ciudades del mundo con el tráfico más hostil, violento y contaminante, las humildes bicicletas han tomado al asalto las calles en un cambio que no parece que vaya a tener \"marcha atrás\".\n.- Managua (Nicaragua).- Las \"Gigantonas\", una especie de teatro callejero, recorren las calles de la ciudad colonial de León, en Nicaragua, para burlarse, en medio de bailes, coplas, picardía y la pandemia de la covid-19, del poder y de la clase política nicaragüense.\n.- Montevideo (Uruguay).- El Teatro El Galpón hará una ofrenda de muertos al más puro estilo mexicano en homenaje a Mario Benedetti con motivo del centenario de su nacimiento.\n.- Ciudad de México (México).- Entrevista al mexicano Jos Canela emprende el vuelo en solitario tras CD9.\n.- Miami (EE.UU.).- Entrevista con el cantante colombiano Silvestre Dangond sobre su próximo disco, \"Las locuras mías\".\n.- Montevideo (Uruguay).- Entrevista a Álvaro Recoba, uno de los futbolistas más destacados surgidos en Uruguay.\nmbv/jcg \nMesa de Edición América\n(57 1) 3214855 Ext.107\ntvefebogota@efe.com\n",
+      "wordsCount": 863,
+      "keyWords": [],
+      "metaData": {
+        "classification": {
+          "id": 1,
+          "description": "Actualidad"
+        },
+        "langCode": "es",
+        "relevance": {
+          "id": 5,
+          "description": "Normal"
+        },
+        "iptcList": [
+          {
+            "code": "22004000",
+            "descriptionlevel1": "Multitemático",
+            "descriptionlevel2": "Mensajes",
+            "descriptionlevel3": ""
+          },
+          {
+            "code": "22002000",
+            "descriptionlevel1": "Multitemático",
+            "descriptionlevel2": "Previsiones",
+            "descriptionlevel3": ""
+          }
+        ],
+        "geoProperties": {
+          "city": "Bogotá"
+        },
+        "source": "EFE",
+        "credit": "EFE",
+        "editor": "",
+        "authors": []
+      },
+      "objectsCount": {
+        "total": 1,
+        "texts": 1,
+        "photos": 0,
+        "infographics": 0,
+        "audios": 0,
+        "videos": 0,
+        "files": 0
+      }
+    },
+    "objects": [
+      {
+        "id": 55004838617001,
+        "format": {
+          "id": 1,
+          "description": "Texto"
+        },
+        "date": "20201102T151400Z",
+        "firstCreated": "20201102T120000Z",
+        "guide": "AGENDA INFORMATIVA TV",
+        "guideComplements": [],
+        "title": "Agenda informativa TV América para el 2 de noviembre de 2020",
+        "subtitle": "",
+        "summary": "",
+        "text": "Bogotá, 2 nov (EFE).-\n.- Varias ciudades (EE.UU.).- Estados Unidos vive con expectación las últimas horas de campaña antes de la jornada histórica y decisiva del martes electoral.\n.- Washington (Estados Unidos).- El presidente de Estados Unidos, Donald Trump, y su rival demócrata, Joe Biden, apuran sus últimas horas de campaña antes de las elecciones de este martes, que han dividido a un país sumido en la crisis económica y azotado como ningún otro por la pandemia del coronavirus.\n.- Filadelfia/Detroit/Austin (Estados Unidos) - La demografía de Estados Unidos cambia y, a la vez, irrumpen en la lista de estados claves, aquellos que decidirán las elecciones, algunos que hasta hace poco eran considerados territorios seguros: Pensilvania, Michigan e, incluso, Texas podría abandonar a los republicanos.\n.- Washington (Estados Unidos).- Un mar de gorras rojas espera a Donald Trump en la pista de un aeropuerto; una sinfonía de cláxones suena en un aparcamiento por Joe Biden. El escenario es parte del mensaje en estas elecciones, y los mítines de los candidatos han contado la historia de dos campañas diametralmente opuestas.\n.- Miami (Estados Unidos).- El expresidente Barack Obama, una figura carismática para hispanos y afroamericanos, dará este lunes el impuso final a la campaña del candidato demócrata Joe Biden en Florida, un estado en empate técnico y que el republicano Donald Trump no puede perder si quiere repetir la historia de 2016.\n.- San Juan (Puerto Rico).- Tras la resaca del fin de campaña para las elecciones generales del 3 de noviembre, Puerto Rico se alista para unos comicios en los que nuevos y pequeños partidos podrían restar votos a los dos principales, el gobernante Partido Nuevo Progresista (PNP) y el Partido Popular Democrático (PPD), en la oposición.\n.- Lima (Perú).- El Congreso peruano decide si admite a debate una moción de destitución del presidente Martín Vizcarra, presentada por un sector de la oposición política por una presunta \"incapacidad moral\" del gobernante para seguir en el cargo.\n.- Ciudad de México (México).- México culmina tres días de luto nacional por los más de 90.000 fallecidos que ha dejado la pandemia del coronavirus con un ceremonia indígena en Palacio Nacional.\n.- Buenos Aires (Argentina).- Las cinco claves que explican el dramático avance de la pandemia en Argentina, que pasó de estar controlada durante los primeros meses a escalar en gravedad y acumular hasta ahora casi 1,2 millones de contagiados y 31.140 muertes.\n.- San José (Costa Rica).- Costa Rica abre sus fronteras aéreas por completo y comienza una nueva etapa de atracción de turistas en el contexto de la pandemia de covid-19.\n.- Tegucigalpa (Honduras).- La crisis de la covid-19 puede ser una \"oportunidad\" para que Honduras avance hacia la conectividad para mejorar la educación, la salud y la transparencia, dice en entrevista con Efe el director regional del PNUD para América Latina y el Caribe, Luis Felipe López-Calva.\n.- San Salvador (El Salvador).- El colectivo Salvadoreños Construyendo Memoria realiza una actividad en memoria de los muertos y desaparecidos por fuerzas estatales.\n.- Sao Paulo (Brasil).- \"Marcha para Jesús\", evento organizado por diferentes grupos evangélicos en Brasil.\n.- Santo Domingo (República Dominicana).- República Dominicana inicia el año escolar de manera 100% virtual, con clases por televisión, debido a la pandemia.\n.- Río de Janeiro (Brasil).- El arzobispo de Río de Janeiro, Orani Tempesta, encabeza un acto en homenaje a los científicos brasileños que encabezan la lucha contra el coronavirus.\n.- Chiapas (México).- Los pueblos indígenas de los altos de Chiapas conciben el Día de Muertos como la fiesta del alma (k'in ch'ulelal, en tzotzil) y ofrendan velas, comida, posh (bebida sagrada), incienso, flores y juncia en agradecimiento por los bienes que les fueron heredados a sus descendientes.\n.- Ciudad de Panamá (Panamá).- Conmemoración del Día de los Difuntos en medio del llamado oficial a evitar las aglomeraciones ante el riesgo de la covid-19.\n.- La Paz (Bolivia).- La celebración de Todos Santos está marcada este año en ciudades bolivianas como La Paz por el recuerdo a los fallecidos por covid-19.\n.- Managua (Nicaragua).- Los nicaragüenses acuden a los camposantos para conmemorar el Día de los Muertos.\n.- Lima (Perú).-  Lima vive una revolución. Ante la cruel dictadura del coche que hace de la capital peruana una de las ciudades del mundo con el tráfico más hostil, violento y contaminante, las humildes bicicletas han tomado al asalto las calles en un cambio que no parece que vaya a tener \"marcha atrás\".\n.- Managua (Nicaragua).- Las \"Gigantonas\", una especie de teatro callejero, recorren las calles de la ciudad colonial de León, en Nicaragua, para burlarse, en medio de bailes, coplas, picardía y la pandemia de la covid-19, del poder y de la clase política nicaragüense.\n.- Montevideo (Uruguay).- El Teatro El Galpón hará una ofrenda de muertos al más puro estilo mexicano en homenaje a Mario Benedetti con motivo del centenario de su nacimiento.\n.- Ciudad de México (México).- Entrevista al mexicano Jos Canela emprende el vuelo en solitario tras CD9.\n.- Miami (EE.UU.).- Entrevista con el cantante colombiano Silvestre Dangond sobre su próximo disco, \"Las locuras mías\".\n.- Montevideo (Uruguay).- Entrevista a Álvaro Recoba, uno de los futbolistas más destacados surgidos en Uruguay.\nmbv/jcg \nMesa de Edición América\n(57 1) 3214855 Ext.107\ntvefebogota@efe.com\n",
+        "wordsCount": 863,
+        "keyWords": [],
+        "tabSeparatedText": false,
+        "richText": false,
+        "metaData": {
+          "langCode": "es",
+          "relevance": {
+            "id": 5,
+            "description": "Normal"
+          },
+          "iptcList": [
+            {
+              "code": "22004000",
+              "descriptionlevel1": "Multitemático",
+              "descriptionlevel2": "Mensajes",
+              "descriptionlevel3": ""
+            },
+            {
+              "code": "22002000",
+              "descriptionlevel1": "Multitemático",
+              "descriptionlevel2": "Previsiones",
+              "descriptionlevel3": ""
+            }
+          ],
+          "geoProperties": {
+            "city": "Bogotá"
+          },
+          "source": "EFE",
+          "credit": "EFE",
+          "editor": "",
+          "authors": []
+        }
+      }
+    ]
+  },
+  {
+    "packageInfo": {
+      "id": 55004838602,
+      "version": 3,
+      "format": {
+        "id": 1,
+        "description": "Texto"
+      },
+      "date": "20201102T151033Z",
+      "firstCreated": "20201102T144649Z",
+      "guide": "LIBIA CONFLICTO",
+      "guideComplements": [],
+      "title": "Comité 5+5 llega a Ghadamés para seguir el diálogo de paz en territorio libio",
+      "subtitle": "",
+      "summary": "",
+      "text": "Trípoli, 2 nov (EFE).- Los miembros del Comité Militar 5+5, que sienta a representantes de los dos gobiernos libios en conflicto, llegaron hoy a la ciudad de Ghadamés, situada en la frontera con Argelia y Túnez, para la que será la primera reunión en territorio nacional libio desde que hace dos semanas comenzara el nuevo proceso de paz auspiciado por Naciones Unidas. \nSegún fuentes oficiales en la localidad, designada patrimonio de la humanidad por la UNESCO en 1986, ambas delegaciones fueron recibidas por el alcalde y los miembros del Consejo Municipal, así como por una representación de los notables y ancianos de las tribus locales. \nFuentes de Naciones Unidas confirmaron a Efe, por su parte, que está previsto que la reunión arranque avanzada la tarde bajo la dirección de la representante especial interina del secretario general de la ONU para Libia, Stephanie Williams\". \n\"Esta ronda de conversaciones se produce tras la firma de un acuerdo de alto el fuego por ambas delegaciones el 23 de octubre en Ginebra. Los participantes iniciarán debates sobre la aplicación del acuerdo de alto el fuego, incluyendo el establecimiento de subcomités y un mecanismo de seguimiento y verificación\", explicó el domingo la misión de la ONU para Libia (UNSMIL) en un comunicado. \nLa primera ronda de este nuevo proceso de diálogo se celebró a principios de octubre en la ciudad costera egipcia de Hurgada y tuvo como resultado un acuerdo para estabilizar el frente de batalla, situado en el la línea que une la ciudad costera de Sirte y el oasis de Al Jufra y que divide el país en dos mitades, así como la reapertura de la conexiones aéreas y terrestres. \n  \nFRÁGIL ALTO EL FUEGO \nLas reuniones se trasladaron después a la ciudad suiza de Ginebra, donde hace una semana ambas partes pactaron un alto el fuego, el tercero desde que en abril de 2019 las fuerzas bajo el mando del mariscal Jalifa Hafter, tutor del gobierno no reconocido en el este de Libia y hombre fuerte del país, levantara un cerco a la capital tras conquistar el sur. \nLas tropas del este se vieron obligadas a retroceder a la línea de Sirte en junio de este año, empujadas por grupos de mercenarios sirios enviados a Libia por Turquía, principal aliado del Gobierno de Acuerdo nacional sostenido por la ONU en Trípoli, GNA. \nEl alto el fuego ha sido criticado por líderes militares en el oeste, que se niegan a negociar con Hafter, mientras que éste no se ha pronunciado sobre el mismo. \nTampoco ha sido respaldado ni por Rusia -apoyo esencial del mariscal- ni por Turquía, países que mantienen su propio diálogo en paralelo a la ONU. \nAl mismo tiempo que Williams se felicitaba la semana pasada por el acuerdo, que incluye la suspensión de los acuerdos de colaboración militar con los distintos países, los ministros de Defensa del GNA y de Turquía firmaban un acuerdo para ampliar su cooperación en la integración de las milicias y la formación del que quieren se que sea el futuro ejército regular de Libia. \nmak-jm/si\n",
+      "wordsCount": 512,
+      "keyWords": [],
+      "metaData": {
+        "classification": {
+          "id": 1,
+          "description": "Actualidad"
+        },
+        "langCode": "es",
+        "relevance": {
+          "id": 5,
+          "description": "Normal"
+        },
+        "iptcList": [
+          {
+            "code": "16010000",
+            "descriptionlevel1": "Disturbios y conflictos",
+            "descriptionlevel2": "Conflicto (general)",
+            "descriptionlevel3": ""
+          },
+          {
+            "code": "11014002",
+            "descriptionlevel1": "Política",
+            "descriptionlevel2": "Organismos internacionales",
+            "descriptionlevel3": "Negociaciones de paz"
+          }
+        ],
+        "geoProperties": {
+          "area": "Oriente medio/Magreb",
+          "countryCode": "LY",
+          "city": "Trípoli"
+        },
+        "source": "",
+        "credit": "",
+        "editor": "",
+        "authors": []
+      },
+      "objectsCount": {
+        "total": 1,
+        "texts": 1,
+        "photos": 0,
+        "infographics": 0,
+        "audios": 0,
+        "videos": 0,
+        "files": 0
+      }
+    },
+    "objects": [
+      {
+        "id": 55004838602001,
+        "format": {
+          "id": 1,
+          "description": "Texto"
+        },
+        "date": "20201102T151000Z",
+        "firstCreated": "20201102T144600Z",
+        "guide": "LIBIA CONFLICTO",
+        "guideComplements": [],
+        "title": "Comité 5+5 llega a Ghadamés para seguir el diálogo de paz en territorio libio",
+        "subtitle": "",
+        "summary": "",
+        "text": "Trípoli, 2 nov (EFE).- Los miembros del Comité Militar 5+5, que sienta a representantes de los dos gobiernos libios en conflicto, llegaron hoy a la ciudad de Ghadamés, situada en la frontera con Argelia y Túnez, para la que será la primera reunión en territorio nacional libio desde que hace dos semanas comenzara el nuevo proceso de paz auspiciado por Naciones Unidas. \nSegún fuentes oficiales en la localidad, designada patrimonio de la humanidad por la UNESCO en 1986, ambas delegaciones fueron recibidas por el alcalde y los miembros del Consejo Municipal, así como por una representación de los notables y ancianos de las tribus locales. \nFuentes de Naciones Unidas confirmaron a Efe, por su parte, que está previsto que la reunión arranque avanzada la tarde bajo la dirección de la representante especial interina del secretario general de la ONU para Libia, Stephanie Williams\". \n\"Esta ronda de conversaciones se produce tras la firma de un acuerdo de alto el fuego por ambas delegaciones el 23 de octubre en Ginebra. Los participantes iniciarán debates sobre la aplicación del acuerdo de alto el fuego, incluyendo el establecimiento de subcomités y un mecanismo de seguimiento y verificación\", explicó el domingo la misión de la ONU para Libia (UNSMIL) en un comunicado. \nLa primera ronda de este nuevo proceso de diálogo se celebró a principios de octubre en la ciudad costera egipcia de Hurgada y tuvo como resultado un acuerdo para estabilizar el frente de batalla, situado en el la línea que une la ciudad costera de Sirte y el oasis de Al Jufra y que divide el país en dos mitades, así como la reapertura de la conexiones aéreas y terrestres. \n  \nFRÁGIL ALTO EL FUEGO \nLas reuniones se trasladaron después a la ciudad suiza de Ginebra, donde hace una semana ambas partes pactaron un alto el fuego, el tercero desde que en abril de 2019 las fuerzas bajo el mando del mariscal Jalifa Hafter, tutor del gobierno no reconocido en el este de Libia y hombre fuerte del país, levantara un cerco a la capital tras conquistar el sur. \nLas tropas del este se vieron obligadas a retroceder a la línea de Sirte en junio de este año, empujadas por grupos de mercenarios sirios enviados a Libia por Turquía, principal aliado del Gobierno de Acuerdo nacional sostenido por la ONU en Trípoli, GNA. \nEl alto el fuego ha sido criticado por líderes militares en el oeste, que se niegan a negociar con Hafter, mientras que éste no se ha pronunciado sobre el mismo. \nTampoco ha sido respaldado ni por Rusia -apoyo esencial del mariscal- ni por Turquía, países que mantienen su propio diálogo en paralelo a la ONU. \nAl mismo tiempo que Williams se felicitaba la semana pasada por el acuerdo, que incluye la suspensión de los acuerdos de colaboración militar con los distintos países, los ministros de Defensa del GNA y de Turquía firmaban un acuerdo para ampliar su cooperación en la integración de las milicias y la formación del que quieren se que sea el futuro ejército regular de Libia. \nmak-jm/si\n",
+        "wordsCount": 512,
+        "keyWords": [],
+        "tabSeparatedText": false,
+        "richText": true,
+        "metaData": {
+          "langCode": "es",
+          "relevance": {
+            "id": 5,
+            "description": "Normal"
+          },
+          "iptcList": [
+            {
+              "code": "16010000",
+              "descriptionlevel1": "Disturbios y conflictos",
+              "descriptionlevel2": "Conflicto (general)",
+              "descriptionlevel3": ""
+            },
+            {
+              "code": "11014002",
+              "descriptionlevel1": "Política",
+              "descriptionlevel2": "Organismos internacionales",
+              "descriptionlevel3": "Negociaciones de paz"
+            }
+          ],
+          "geoProperties": {
+            "area": "Oriente medio/Magreb",
+            "countryCode": "LY",
+            "city": "Trípoli"
+          },
+          "source": "",
+          "credit": "",
+          "editor": "",
+          "authors": []
+        }
+      }
+    ]
+  },
+  {
+    "packageInfo": {
+      "id": 55004838599,
+      "version": 3,
+      "format": {
+        "id": 1,
+        "description": "Texto"
+      },
+      "date": "20201102T151007Z",
+      "firstCreated": "20201102T143258Z",
+      "guide": "CORONAVIRUS ESPAÑA",
+      "guideComplements": [],
+      "title": "AstraZeneca estima distribuir la vacuna de la covid-19 a finales de marzo",
+      "subtitle": "",
+      "summary": "",
+      "text": "Barcelona (España), 2 nov (EFE).- La distribución de la vacuna de la covid-19 podría estar \"en fase avanzada\" a finales de marzo de 2021, según estimaciones de la empresa farmacéutica AstraZeneca, encargada de proveer a la Unión Europea (UE) de 300 millones de dosis.  \nAsí lo indicó este lunes el director del área de Investigación y Desarrollo de Oncología AstraZeneca, Josep Baselga, quien calcula que a principios de año que viene la farmacéutica tendrá unos tres mil millones de vacunas que confía en que se verifiquen efectivas.  \nLo \"complicado\" será diseñar cómo repartirlas dada la demanda que existirá, por lo que Balsega estima que hasta finales del primer trimestre de 2021 las vacunas, en caso de funcionar, no estarían en \"fase avanzada de distribución\". \nAstraZeneca espera que antes de finales de año \"una, dos o tres\" de las cuatro vacunas con las que está experimentando comiencen a dar \"resultados\". \nEn el caso de las vacunas de esta empresa la previsión es que se apliquen dos dosis: la segunda 28 días después de la primera. \nAhora mismo en todo el mundo hay 175 vacunas distintas sobre las que se está trabajando, 35 de ellas en ensayos clínicos con enfermos y 10 en su fase final de verificación, explicó Balsega en declaraciones radiofónicas. \n\"La vacuna ayudará, pero no es la única solución\", dijo y recordó que AstraZeneca está desarrollando también un tratamiento por \"anticuerpos monoclonales\", con el que se aplicarían anticuerpos de personas que han pasado el virus a potenciales enfermos. \nHay 16 de estos tratamientos en desarrollo y uno en especial que \"es buenísimo\". \nCon todo, se mostró confiado en que tras un invierno que será \"horroroso\" el próximo verano sea \"relativamente normal\", y sostuvo que no se debe obligar a vacunarse a quien no lo quiera, porque a su juicio debe prevalecer \"un principio de libertad individual que es innegable\". EFE \nEn agosto, la Unión Europea (UE) cerró con AstraZeneca un primer contrato que le garantiza acceso a 300 millones de dosis, pacto que se rubricó en nombre de los Estados miembros y las dosis se distribuirán en función de la población de cada país. \nAdemás del contrato de la UE con AstraZeneca, los Gobiernos de Argentina y México, así como la fundación mexicana Slim, llegaron a un acuerdo con la farmacéutica y Oxford para fabricar la vacuna destinada a sus países y distribuirla después al resto de América Latina, excepto Brasil.  \nAdemás del Reino Unido, las pruebas clínicas se han desarrollado en Estados Unidos, Brasil y Sudáfrica. EFE \nnac-ajs/ie\n",
+      "wordsCount": 423,
+      "keyWords": [],
+      "metaData": {
+        "classification": {
+          "id": 1,
+          "description": "Actualidad"
+        },
+        "langCode": "es",
+        "relevance": {
+          "id": 5,
+          "description": "Normal"
+        },
+        "iptcList": [
+          {
+            "code": "07002000",
+            "descriptionlevel1": "Sanidad y salud",
+            "descriptionlevel2": "Epidemias y plagas",
+            "descriptionlevel3": ""
+          },
+          {
+            "code": "07008001",
+            "descriptionlevel1": "Sanidad y salud",
+            "descriptionlevel2": "Medicina preventiva",
+            "descriptionlevel3": "Vacunas"
+          }
+        ],
+        "geoProperties": {
+          "area": "Europa",
+          "countryCode": "ES",
+          "city": "Barcelona"
+        },
+        "source": "EFE",
+        "credit": "EFE",
+        "editor": "",
+        "authors": []
+      },
+      "objectsCount": {
+        "total": 1,
+        "texts": 1,
+        "photos": 0,
+        "infographics": 0,
+        "audios": 0,
+        "videos": 0,
+        "files": 0
+      }
+    },
+    "objects": [
+      {
+        "id": 55004838599001,
+        "format": {
+          "id": 1,
+          "description": "Texto"
+        },
+        "date": "20201102T151000Z",
+        "firstCreated": "20201102T143200Z",
+        "guide": "CORONAVIRUS ESPAÑA",
+        "guideComplements": [],
+        "title": "AstraZeneca estima distribuir la vacuna de la covid-19 a finales de marzo",
+        "subtitle": "",
+        "summary": "",
+        "text": "Barcelona (España), 2 nov (EFE).- La distribución de la vacuna de la covid-19 podría estar \"en fase avanzada\" a finales de marzo de 2021, según estimaciones de la empresa farmacéutica AstraZeneca, encargada de proveer a la Unión Europea (UE) de 300 millones de dosis.  \nAsí lo indicó este lunes el director del área de Investigación y Desarrollo de Oncología AstraZeneca, Josep Baselga, quien calcula que a principios de año que viene la farmacéutica tendrá unos tres mil millones de vacunas que confía en que se verifiquen efectivas.  \nLo \"complicado\" será diseñar cómo repartirlas dada la demanda que existirá, por lo que Balsega estima que hasta finales del primer trimestre de 2021 las vacunas, en caso de funcionar, no estarían en \"fase avanzada de distribución\". \nAstraZeneca espera que antes de finales de año \"una, dos o tres\" de las cuatro vacunas con las que está experimentando comiencen a dar \"resultados\". \nEn el caso de las vacunas de esta empresa la previsión es que se apliquen dos dosis: la segunda 28 días después de la primera. \nAhora mismo en todo el mundo hay 175 vacunas distintas sobre las que se está trabajando, 35 de ellas en ensayos clínicos con enfermos y 10 en su fase final de verificación, explicó Balsega en declaraciones radiofónicas. \n\"La vacuna ayudará, pero no es la única solución\", dijo y recordó que AstraZeneca está desarrollando también un tratamiento por \"anticuerpos monoclonales\", con el que se aplicarían anticuerpos de personas que han pasado el virus a potenciales enfermos. \nHay 16 de estos tratamientos en desarrollo y uno en especial que \"es buenísimo\". \nCon todo, se mostró confiado en que tras un invierno que será \"horroroso\" el próximo verano sea \"relativamente normal\", y sostuvo que no se debe obligar a vacunarse a quien no lo quiera, porque a su juicio debe prevalecer \"un principio de libertad individual que es innegable\". EFE \nEn agosto, la Unión Europea (UE) cerró con AstraZeneca un primer contrato que le garantiza acceso a 300 millones de dosis, pacto que se rubricó en nombre de los Estados miembros y las dosis se distribuirán en función de la población de cada país. \nAdemás del contrato de la UE con AstraZeneca, los Gobiernos de Argentina y México, así como la fundación mexicana Slim, llegaron a un acuerdo con la farmacéutica y Oxford para fabricar la vacuna destinada a sus países y distribuirla después al resto de América Latina, excepto Brasil.  \nAdemás del Reino Unido, las pruebas clínicas se han desarrollado en Estados Unidos, Brasil y Sudáfrica. EFE \nnac-ajs/ie\n",
+        "wordsCount": 423,
+        "keyWords": [],
+        "tabSeparatedText": false,
+        "richText": true,
+        "metaData": {
+          "langCode": "es",
+          "relevance": {
+            "id": 5,
+            "description": "Normal"
+          },
+          "iptcList": [
+            {
+              "code": "07002000",
+              "descriptionlevel1": "Sanidad y salud",
+              "descriptionlevel2": "Epidemias y plagas",
+              "descriptionlevel3": ""
+            },
+            {
+              "code": "07008001",
+              "descriptionlevel1": "Sanidad y salud",
+              "descriptionlevel2": "Medicina preventiva",
+              "descriptionlevel3": "Vacunas"
+            }
+          ],
+          "geoProperties": {
+            "area": "Europa",
+            "countryCode": "ES",
+            "city": "Barcelona"
+          },
+          "source": "EFE",
+          "credit": "EFE",
+          "editor": "",
+          "authors": []
+        }
+      }
+    ]
+  },
+  {
+    "packageInfo": {
+      "id": 55004838592,
+      "version": 3,
+      "format": {
+        "id": 1,
+        "description": "Texto"
+      },
+      "date": "20201102T150919Z",
+      "firstCreated": "20201102T120059Z",
+      "guide": "LITERATURA FRANCIA",
+      "guideComplements": [],
+      "title": "Hidalgo a los parisinos tras el cierre de las librerías:No compréis en Amazon",
+      "subtitle": "",
+      "summary": "",
+      "text": "París, 2 nov (EFE).- La alcaldesa de París, Anne Hidalgo, reclamó este lunes la reapertura de las librerías en Francia, obligadas a cerrar por el confinamiento de un mes impuesto el pasado viernes, y pidió a los parisinos que no compren en Amazon por suponer \"la muerte del pequeño comercio\".\n\"No compréis en Amazon, es la muerte de las librerías y del comercio de proximidad\", dijo en declaraciones a la prensa, ante la que recordó que la mayor parte de las 550 librerías independientes de la ciudad han puesto en marcha un sistema de recogida que permite reservar por internet y recuperar en tienda.\nHidalgo explicó que junto a los alcaldes de varias grandes ciudades del país han enviado una petición al Gobierno nacional para reabrir estos comercios, antes del plazo de dos semanas que baraja el Ejecutivo para contemplar una posible reapertura de ciertos negocios.\nDespués de que varios ayuntamientos del país publicaran este fin de semana un decreto para autorizar la apertura, decisión directamente anulada por la Justicia, Hidalgo insistió en que quiere hacer las cosas \"dentro de la ley\" y aseguró que los libreros la han respaldado en su demanda escrita al Ejecutivo.\n\"Un decreto (permitiendo la reapertura en París) habría sido directamente anulado y los habría puesto en dificultad\", apuntó.\nEn un comunicado del Ayuntamiento del pasado jueves, la responsable de Cultura del consistorio, Carine Rolland, insistió en que desde la institución consideraban la cultura como un \"bien común esencial\" por lo que solicitaron ya en un primer momento la apertura de establecimientos culturales, entre ellos las bibliotecas.\nEn Francia, el Gobierno ha permitido a los comercios no esenciales que abran los llamados servicios de \"click and collect\" facilitando la venta por internet o correo electrónico y que más tarde el cliente puede recuperar en la tienda sin entrar dentro del negocio.\nUna petición en línea lanzada por varios sindicatos y firmada por cerca de 200.000 personas reclama que estos negocios sean considerados como esenciales para que se permita su reapertura, por ser además la única conexión con la cultura que puede haber en un momento en el que cine, teatro y espectáculos han debido también ser anulados.\nDesde este lunes y hasta entonces tendrá lugar la operación \"Rallumez les feux\" (Volved a encender las luces) de las librerías, en la que cada día un escritor, como hoy Sylvain Tesson junto a Hidalgo, visitará una para mostrar su apoyo. EFE\nmdv/mgr/mah\n",
+      "wordsCount": 408,
+      "keyWords": [],
+      "metaData": {
+        "classification": {
+          "id": 1,
+          "description": "Actualidad"
+        },
+        "langCode": "es",
+        "relevance": {
+          "id": 5,
+          "description": "Normal"
+        },
+        "iptcList": [
+          {
+            "code": "01010000",
+            "descriptionlevel1": "Arte, cultura y espectáculos",
+            "descriptionlevel2": "Literatura",
+            "descriptionlevel3": ""
+          }
+        ],
+        "geoProperties": {
+          "area": "Europa",
+          "countryCode": "FR",
+          "city": "París"
+        },
+        "source": "EFE",
+        "credit": "EFE",
+        "editor": "",
+        "authors": []
+      },
+      "objectsCount": {
+        "total": 1,
+        "texts": 1,
+        "photos": 0,
+        "infographics": 0,
+        "audios": 0,
+        "videos": 0,
+        "files": 0
+      }
+    },
+    "objects": [
+      {
+        "id": 55004838592001,
+        "format": {
+          "id": 1,
+          "description": "Texto"
+        },
+        "date": "20201102T150900Z",
+        "firstCreated": "20201102T120000Z",
+        "guide": "LITERATURA FRANCIA",
+        "guideComplements": [],
+        "title": "Hidalgo a los parisinos tras el cierre de las librerías:No compréis en Amazon",
+        "subtitle": "",
+        "summary": "",
+        "text": "París, 2 nov (EFE).- La alcaldesa de París, Anne Hidalgo, reclamó este lunes la reapertura de las librerías en Francia, obligadas a cerrar por el confinamiento de un mes impuesto el pasado viernes, y pidió a los parisinos que no compren en Amazon por suponer \"la muerte del pequeño comercio\".\n\"No compréis en Amazon, es la muerte de las librerías y del comercio de proximidad\", dijo en declaraciones a la prensa, ante la que recordó que la mayor parte de las 550 librerías independientes de la ciudad han puesto en marcha un sistema de recogida que permite reservar por internet y recuperar en tienda.\nHidalgo explicó que junto a los alcaldes de varias grandes ciudades del país han enviado una petición al Gobierno nacional para reabrir estos comercios, antes del plazo de dos semanas que baraja el Ejecutivo para contemplar una posible reapertura de ciertos negocios.\nDespués de que varios ayuntamientos del país publicaran este fin de semana un decreto para autorizar la apertura, decisión directamente anulada por la Justicia, Hidalgo insistió en que quiere hacer las cosas \"dentro de la ley\" y aseguró que los libreros la han respaldado en su demanda escrita al Ejecutivo.\n\"Un decreto (permitiendo la reapertura en París) habría sido directamente anulado y los habría puesto en dificultad\", apuntó.\nEn un comunicado del Ayuntamiento del pasado jueves, la responsable de Cultura del consistorio, Carine Rolland, insistió en que desde la institución consideraban la cultura como un \"bien común esencial\" por lo que solicitaron ya en un primer momento la apertura de establecimientos culturales, entre ellos las bibliotecas.\nEn Francia, el Gobierno ha permitido a los comercios no esenciales que abran los llamados servicios de \"click and collect\" facilitando la venta por internet o correo electrónico y que más tarde el cliente puede recuperar en la tienda sin entrar dentro del negocio.\nUna petición en línea lanzada por varios sindicatos y firmada por cerca de 200.000 personas reclama que estos negocios sean considerados como esenciales para que se permita su reapertura, por ser además la única conexión con la cultura que puede haber en un momento en el que cine, teatro y espectáculos han debido también ser anulados.\nDesde este lunes y hasta entonces tendrá lugar la operación \"Rallumez les feux\" (Volved a encender las luces) de las librerías, en la que cada día un escritor, como hoy Sylvain Tesson junto a Hidalgo, visitará una para mostrar su apoyo. EFE\nmdv/mgr/mah\n",
+        "wordsCount": 408,
+        "keyWords": [],
+        "tabSeparatedText": false,
+        "richText": false,
+        "metaData": {
+          "langCode": "es",
+          "relevance": {
+            "id": 5,
+            "description": "Normal"
+          },
+          "iptcList": [
+            {
+              "code": "01010000",
+              "descriptionlevel1": "Arte, cultura y espectáculos",
+              "descriptionlevel2": "Literatura",
+              "descriptionlevel3": ""
+            }
+          ],
+          "geoProperties": {
+            "area": "Europa",
+            "countryCode": "FR",
+            "city": "París"
+          },
+          "source": "EFE",
+          "credit": "EFE",
+          "editor": "",
+          "authors": []
+        }
+      }
+    ]
+  },
+  {
+    "packageInfo": {
+      "id": 55004838575,
+      "version": 3,
+      "format": {
+        "id": 1,
+        "description": "Texto"
+      },
+      "date": "20201102T150657Z",
+      "firstCreated": "20201102T145337Z",
+      "guide": "FÚTBOL FIFA",
+      "guideComplements": [],
+      "title": "La FIFA crea el Diploma de Gestión de Clubes",
+      "subtitle": "",
+      "summary": "",
+      "text": "Madrid, 2 nov (EFE).- La FIFA ha anunciado este lunes la creación del Diploma en Gestión de Clubes, que tiene el objetivo de que los directivos de todo el mundo adquieran el conocimiento práctico y la visión de los principales profesionales de la industria del fútbol. \nLa FIFA ha lanzado este programa al entender que es necesario \"en este momento en que el fútbol está cambiando y se enfrenta a desafíos nunca vistos\" y que pretende cumplir el objetivo del organismo futbolístico \"de crear un ecosistema más equilibrado\", para lo que \"se ofrecerán los instrumentos y el conocimiento necesario para que cada vez más clubes de todo el mundo puedan competir al máximo nivel\". \nSe abordarán las últimas tendencias y se presentarán las prácticas que tienen que ver con gestión y liderazgo, gestión de clubes y estadios, escuelas deportivas y juveniles, aspectos jurídicos y de gobernanza, marketing y comunicación, y cuestiones financieras. \nLas clases a distancia empezarán en marzo de 2021 y terminarán en enero de 2022. No obstante, la intención es que el programa presencial tenga lugar en Londres del 9 al 12 de septiembre de 2021 y en Zúrich del 13 al 16 de enero de 2022, siempre que las restricciones de viaje lo permitan. \nLos directores del programa serán Ornella Desirée Bellia, máxima responsable de Fútbol Profesional de la FIFA, y Maheta Molango, exCEO del Mallorca. El plazo de matricula para los que deseen cursarlo estará abierto hasta el 6 de enero.  \nEn este enlace podrán consultar más información sobre la edición inaugural del Diploma en Gestión de Clubes de la FIFA. El formulario de matrícula ya está disponible en legal.fifa.com y el plazo de solicitud estará abierto hasta el 6 de enero de 2021. EFE \njap/og\n",
+      "wordsCount": 293,
+      "keyWords": [],
+      "metaData": {
+        "classification": {
+          "id": 1,
+          "description": "Actualidad"
+        },
+        "langCode": "es",
+        "relevance": {
+          "id": 5,
+          "description": "Normal"
+        },
+        "iptcList": [
+          {
+            "code": "15054000",
+            "descriptionlevel1": "Deporte",
+            "descriptionlevel2": "Fútbol",
+            "descriptionlevel3": ""
+          }
+        ],
+        "geoProperties": {
+          "area": "Europa",
+          "countryCode": "ES",
+          "region": "Comunidad de Madrid",
+          "city": "Madrid"
+        },
+        "source": "",
+        "credit": "",
+        "editor": "",
+        "authors": [
+          "jap"
+            ]
+      },
+      "objectsCount": {
+        "total": 1,
+        "texts": 1,
+        "photos": 0,
+        "infographics": 0,
+        "audios": 0,
+        "videos": 0,
+        "files": 0
+      }
+    },
+    "objects": [
+      {
+        "id": 55004838575001,
+        "format": {
+          "id": 1,
+          "description": "Texto"
+        },
+        "date": "20201102T150600Z",
+        "firstCreated": "20201102T145300Z",
+        "guide": "FÚTBOL FIFA",
+        "guideComplements": [],
+        "title": "La FIFA crea el Diploma de Gestión de Clubes",
+        "subtitle": "",
+        "summary": "",
+        "text": "Madrid, 2 nov (EFE).- La FIFA ha anunciado este lunes la creación del Diploma en Gestión de Clubes, que tiene el objetivo de que los directivos de todo el mundo adquieran el conocimiento práctico y la visión de los principales profesionales de la industria del fútbol. \nLa FIFA ha lanzado este programa al entender que es necesario \"en este momento en que el fútbol está cambiando y se enfrenta a desafíos nunca vistos\" y que pretende cumplir el objetivo del organismo futbolístico \"de crear un ecosistema más equilibrado\", para lo que \"se ofrecerán los instrumentos y el conocimiento necesario para que cada vez más clubes de todo el mundo puedan competir al máximo nivel\". \nSe abordarán las últimas tendencias y se presentarán las prácticas que tienen que ver con gestión y liderazgo, gestión de clubes y estadios, escuelas deportivas y juveniles, aspectos jurídicos y de gobernanza, marketing y comunicación, y cuestiones financieras. \nLas clases a distancia empezarán en marzo de 2021 y terminarán en enero de 2022. No obstante, la intención es que el programa presencial tenga lugar en Londres del 9 al 12 de septiembre de 2021 y en Zúrich del 13 al 16 de enero de 2022, siempre que las restricciones de viaje lo permitan. \nLos directores del programa serán Ornella Desirée Bellia, máxima responsable de Fútbol Profesional de la FIFA, y Maheta Molango, exCEO del Mallorca. El plazo de matricula para los que deseen cursarlo estará abierto hasta el 6 de enero.  \nEn este enlace podrán consultar más información sobre la edición inaugural del Diploma en Gestión de Clubes de la FIFA. El formulario de matrícula ya está disponible en legal.fifa.com y el plazo de solicitud estará abierto hasta el 6 de enero de 2021. EFE \njap/og\n",
+        "wordsCount": 293,
+        "keyWords": [],
+        "tabSeparatedText": false,
+        "richText": true,
+        "metaData": {
+          "langCode": "es",
+          "relevance": {
+            "id": 5,
+            "description": "Normal"
+          },
+          "iptcList": [
+            {
+              "code": "15054000",
+              "descriptionlevel1": "Deporte",
+              "descriptionlevel2": "Fútbol",
+              "descriptionlevel3": ""
+            }
+          ],
+          "geoProperties": {
+            "area": "Europa",
+            "countryCode": "ES",
+            "region": "Comunidad de Madrid",
+            "city": "Madrid"
+          },
+          "source": "",
+          "credit": "",
+          "editor": "",
+          "authors": []
+        }
+      }
+    ]
+  },
+  {
+    "packageInfo": {
+      "id": 55004838540,
+      "version": 3,
+      "format": {
+        "id": 1,
+        "description": "Texto"
+      },
+      "date": "20201102T145911Z",
+      "firstCreated": "20201102T120059Z",
+      "guide": "MOTOCICLISMO PORTUGAL",
+      "guideComplements": [],
+      "title": "Portugal acoge la final de copa la mundial de motos sin público",
+      "subtitle": "",
+      "summary": "",
+      "text": "Lisboa, 2 nov (EFE).- Portugal acogerá este fin de semana la final de la Copa Mundial de Bajas de la Federación Internacional de Motos en una carrera sin público debido a la situación creada por la pandemia mundial por la covid-19. \nEl campeonato de bajadas de riesgo no ha podido organizar grandes eventos a causa del coronavirus, que en Portugal deja 144.341 casos y 2.544 fallecidos, y se resolverá finalmente este jueves con dos modalidades de competiciones de motor: quads y motociclismo. \nEn lo referente al público, \"este año, lamentablemente excepcional\", señaló un comunicado de los organizadores, mientras se mantengan las restricciones impuestas por el Gobierno \"no está permitida la presencia de espectadores en eventos deportivos\". \nEl Automóvil Club de Portugal retransmitirá el mayor número de horas de la Baja de Portalegre a través de sus plataformas digitales. \nLos trece pilotos de moto registrados intentarán disputarle el título al actual líder, el alemán Sebastian Bühler, mientras que, en la sección de quads, el portugués Luis Engeitado rivalizará con el español Toni Vingut, ambos con posibilidades de hacerse con el premio. \nPor su parte, en la categoría femenina, la brasileña Janaina Souza, de la casa Honda, competirá por la copa junto a la española Sara García y dejará a Rosa Romero casi sin posibilidades, debido a que no pudo correr en la primera ronda debido al riesgo de incendio. EFE \nac/mar/jad\n",
+      "wordsCount": 235,
+      "keyWords": [],
+      "metaData": {
+        "classification": {
+          "id": 1,
+          "description": "Actualidad"
+        },
+        "langCode": "es",
+        "relevance": {
+          "id": 5,
+          "description": "Normal"
+        },
+        "iptcList": [
+          {
+            "code": "15041000",
+            "descriptionlevel1": "Deporte",
+            "descriptionlevel2": "Motociclismo",
+            "descriptionlevel3": ""
+          }
+        ],
+        "geoProperties": {
+          "area": "Europa",
+          "countryCode": "PT",
+          "city": "Lisboa"
+        },
+        "source": "EFE",
+        "credit": "EFE",
+        "editor": "",
+        "authors": []
+      },
+      "objectsCount": {
+        "total": 1,
+        "texts": 1,
+        "photos": 0,
+        "infographics": 0,
+        "audios": 0,
+        "videos": 0,
+        "files": 0
+      }
+    },
+    "objects": [
+      {
+        "id": 55004838540001,
+        "format": {
+          "id": 1,
+          "description": "Texto"
+        },
+        "date": "20201102T145900Z",
+        "firstCreated": "20201102T120000Z",
+        "guide": "MOTOCICLISMO PORTUGAL",
+        "guideComplements": [],
+        "title": "Portugal acoge la final de copa la mundial de motos sin público",
+        "subtitle": "",
+        "summary": "",
+        "text": "Lisboa, 2 nov (EFE).- Portugal acogerá este fin de semana la final de la Copa Mundial de Bajas de la Federación Internacional de Motos en una carrera sin público debido a la situación creada por la pandemia mundial por la covid-19. \nEl campeonato de bajadas de riesgo no ha podido organizar grandes eventos a causa del coronavirus, que en Portugal deja 144.341 casos y 2.544 fallecidos, y se resolverá finalmente este jueves con dos modalidades de competiciones de motor: quads y motociclismo. \nEn lo referente al público, \"este año, lamentablemente excepcional\", señaló un comunicado de los organizadores, mientras se mantengan las restricciones impuestas por el Gobierno \"no está permitida la presencia de espectadores en eventos deportivos\". \nEl Automóvil Club de Portugal retransmitirá el mayor número de horas de la Baja de Portalegre a través de sus plataformas digitales. \nLos trece pilotos de moto registrados intentarán disputarle el título al actual líder, el alemán Sebastian Bühler, mientras que, en la sección de quads, el portugués Luis Engeitado rivalizará con el español Toni Vingut, ambos con posibilidades de hacerse con el premio. \nPor su parte, en la categoría femenina, la brasileña Janaina Souza, de la casa Honda, competirá por la copa junto a la española Sara García y dejará a Rosa Romero casi sin posibilidades, debido a que no pudo correr en la primera ronda debido al riesgo de incendio. EFE \nac/mar/jad\n",
+        "wordsCount": 235,
+        "keyWords": [],
+        "tabSeparatedText": false,
+        "richText": true,
+        "metaData": {
+          "langCode": "es",
+          "relevance": {
+            "id": 5,
+            "description": "Normal"
+          },
+          "iptcList": [
+            {
+              "code": "15041000",
+              "descriptionlevel1": "Deporte",
+              "descriptionlevel2": "Motociclismo",
+              "descriptionlevel3": ""
+            }
+          ],
+          "geoProperties": {
+            "area": "Europa",
+            "countryCode": "PT",
+            "city": "Lisboa"
+          },
+          "source": "EFE",
+          "credit": "EFE",
+          "editor": "",
+          "authors": []
+        }
+      }
+    ]
+  },
+  {
+    "packageInfo": {
+      "id": 55004838536,
+      "version": 3,
+      "format": {
+        "id": 1,
+        "description": "Texto"
+      },
+      "date": "20201102T145815Z",
+      "firstCreated": "20201102T145046Z",
+      "guide": "MOLDAVIA ELECCIONES",
+      "guideComplements": [],
+      "title": "Misión de la OSCE elogia la gestión de elecciones presidenciales en Moldavia",
+      "subtitle": "",
+      "summary": "",
+      "text": "Moscú, 2 nov (EFE).- La misión de la OSCE desplegada para supervisar las elecciones presidenciales de Moldavia, celebradas ayer, domingo, elogió hoy la gestión de Comisión Electoral Central (CEC) de este país en el desarrollo de los comicios, que se llevaron a cabo \"de manera eficiente y transparente\". \nEn su informe preliminar, la misión de la Oficina de Instituciones de Democráticas y Derechos Humanos (ODIHR) de la Organización para la Seguridad y Cooperación en Europa (OSCE) destacó que las autoridades electorales moldavas \"gestionaron los aspectos técnicos de las elecciones de manera eficiente y transparente\". \n\"Pese a que las elecciones se celebraron en medio de los desafíos que plantea la COVID-19, en una campaña plural los votantes pudieron hacer su opción de manera informada entre un amplio abanico de candidatos y posiciones políticas\", dijo en rueda de prensa la neerlandesa Corien Jonker, jefa de la misión de observadores. \nSin embargo, indicó que hubo denuncias de compra de votos y de transporte organizado de votantes, para añadir que, aunque la ley lo prohíbe, la Iglesia ortodoxa, apoyó al actual presidente moldavo, Igor Dodón, y este utilizó la religión para hacer campaña. \nEn los comicios de este domingo se impuso la opositora y ex primer ministra Maia Sandu, pero no llegó a alcanzar la mayoría absoluta, necesaria para hacerse con la jefatura del Estado en la primera vuelta. \n Sandu, líder del partido europeísta Acción y Solidaridad obtuvo el 36,16 % de los votos, frente al 32,61 % que logró el prorruso Dodon, con quien se medirá en una segunda vuelta, que se celebrará el próximo día 15.  \nEste lunes, tres rivales de la ex primera ministra en la primera vuelta le ofrecieron su apoyo en el cara a cara con el actual presidente: el líder de la formación Plataforma Dignidad y Verdad, Andréi Nastase; el presidente del Partido de Unidad Nacional (PUN), Octavian Ticu; y Dorin Chirtoaca, líder del Movimiento para la Unificación de Rumanía y Moldavia (Unirea). EFE \nbsi/cae/fpa\n",
+      "wordsCount": 330,
+      "keyWords": [],
+      "metaData": {
+        "classification": {
+          "id": 1,
+          "description": "Actualidad"
+        },
+        "langCode": "es",
+        "relevance": {
+          "id": 5,
+          "description": "Normal"
+        },
+        "iptcList": [
+          {
+            "code": "11003004",
+            "descriptionlevel1": "Política",
+            "descriptionlevel2": "Elecciones",
+            "descriptionlevel3": "Elecciones nacionales"
+          }
+        ],
+        "geoProperties": {},
+        "source": "",
+        "credit": "",
+        "editor": "",
+        "authors": []
+      },
+      "objectsCount": {
+        "total": 1,
+        "texts": 1,
+        "photos": 0,
+        "infographics": 0,
+        "audios": 0,
+        "videos": 0,
+        "files": 0
+      }
+    },
+    "objects": [
+      {
+        "id": 55004838536001,
+        "format": {
+          "id": 1,
+          "description": "Texto"
+        },
+        "date": "20201102T145800Z",
+        "firstCreated": "20201102T145000Z",
+        "guide": "MOLDAVIA ELECCIONES",
+        "guideComplements": [],
+        "title": "Misión de la OSCE elogia la gestión de elecciones presidenciales en Moldavia",
+        "subtitle": "",
+        "summary": "",
+        "text": "Moscú, 2 nov (EFE).- La misión de la OSCE desplegada para supervisar las elecciones presidenciales de Moldavia, celebradas ayer, domingo, elogió hoy la gestión de Comisión Electoral Central (CEC) de este país en el desarrollo de los comicios, que se llevaron a cabo \"de manera eficiente y transparente\". \nEn su informe preliminar, la misión de la Oficina de Instituciones de Democráticas y Derechos Humanos (ODIHR) de la Organización para la Seguridad y Cooperación en Europa (OSCE) destacó que las autoridades electorales moldavas \"gestionaron los aspectos técnicos de las elecciones de manera eficiente y transparente\". \n\"Pese a que las elecciones se celebraron en medio de los desafíos que plantea la COVID-19, en una campaña plural los votantes pudieron hacer su opción de manera informada entre un amplio abanico de candidatos y posiciones políticas\", dijo en rueda de prensa la neerlandesa Corien Jonker, jefa de la misión de observadores. \nSin embargo, indicó que hubo denuncias de compra de votos y de transporte organizado de votantes, para añadir que, aunque la ley lo prohíbe, la Iglesia ortodoxa, apoyó al actual presidente moldavo, Igor Dodón, y este utilizó la religión para hacer campaña. \nEn los comicios de este domingo se impuso la opositora y ex primer ministra Maia Sandu, pero no llegó a alcanzar la mayoría absoluta, necesaria para hacerse con la jefatura del Estado en la primera vuelta. \n Sandu, líder del partido europeísta Acción y Solidaridad obtuvo el 36,16 % de los votos, frente al 32,61 % que logró el prorruso Dodon, con quien se medirá en una segunda vuelta, que se celebrará el próximo día 15.  \nEste lunes, tres rivales de la ex primera ministra en la primera vuelta le ofrecieron su apoyo en el cara a cara con el actual presidente: el líder de la formación Plataforma Dignidad y Verdad, Andréi Nastase; el presidente del Partido de Unidad Nacional (PUN), Octavian Ticu; y Dorin Chirtoaca, líder del Movimiento para la Unificación de Rumanía y Moldavia (Unirea). EFE \nbsi/cae/fpa\n",
+        "wordsCount": 330,
+        "keyWords": [],
+        "tabSeparatedText": false,
+        "richText": true,
+        "metaData": {
+          "langCode": "es",
+          "relevance": {
+            "id": 5,
+            "description": "Normal"
+          },
+          "iptcList": [
+            {
+              "code": "11003004",
+              "descriptionlevel1": "Política",
+              "descriptionlevel2": "Elecciones",
+              "descriptionlevel3": "Elecciones nacionales"
+            }
+          ],
+          "geoProperties": {},
+          "source": "",
+          "credit": "",
+          "editor": "",
+          "authors": []
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "inbound-wires-fetch",
+  "version": "0.0.1",
+  "description": "Fetch content from news wires.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.14.0",
+    "rfdc": "^1.1.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.712.0",
+    "jest": "^26.0.1"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "/opt/nodejs/(.*)": "<rootDir>/../layers/LibLayer/$1"
+    }
+  }
+}

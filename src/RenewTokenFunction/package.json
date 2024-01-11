@@ -1,0 +1,15 @@
+{
+  "name": "inbound-wires-renew-token",
+  "version": "1.0.0",
+  "description": "Renew token for Agencia EFE",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "jest": {
+    "moduleNameMapper": {
+      "/opt/nodejs/(.*)": "<rootDir>/../layers/LibLayer/$1"
+    }
+  }
+}

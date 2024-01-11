@@ -1,0 +1,33 @@
+{
+    "Records": [
+        {
+            "messageId": "19dd0b57-b21e-4ac1-bd88-01bbb068cb79",
+            "receiptHandle": "MessageReceiptHandle",
+            "body": "{\n      \"ofinterestof\" : [ \"LAW-TSG-1=LAW\" ],\n      \"country\" : \"USA\",\n      \"city\" : \"Nueva York\",\n      \"channel\" : [ \"/wires/LAW/BOG-GL\", \"/wires/LAW/SJO-GL\", \"/wires/LAW/SCL-GL\", \"/wires/LAW/CCS-GL\", \"/wires/LAW/LAW-GL\", \"/wires/LAW/MEX-GL\", \"/wires/LAW/LIM-GL\", \"/wires/LAW/RIO-GL\", \"/wires/LAW/MAS-GL\", \"/wires/LAW/BUE-GL\", \"/wires/LAW/HAV-GL\", \"/wires/public/LAW\", \"/wires/private/alc/espanol\", \"/wires/public/BASE-ILLIMITEE-AFPNEWS-ES\", \"/wires/public/LAW/LAW_GEN\", \"/wires/public/LAW/LAW_ECO\" ],\n      \"language\" : \"spanish\",\n      \"source\" : \"AFP\",\n      \"title\" : \"Walmart vuelve a colocar las armas en sus estanterías\",\n      \"mediatopic\" : [ \"20000252\", \"20000065\", \"20000574\", \"20000602\", \"16000000\", \"20000243\", \"20000593\", \"04000000\", \"20000209\", \"20000598\", \"20000601\", \"11000000\" ],\n      \"entity_company\" : [ \"WalMart\" ],\n      \"urgency\" : 4,\n      \"provider\" : \"AFP\",\n      \"href\" : \"https://api.afp.com/objects/api/get?id=a1kkIS0nShZaX0ogSgJaUEVDAgoGdm0cDQUbcwN9H3F3Bh5eIUMyKChoWF9dGFsqVAMGBQAAHAgFdRYfCQAGcQ4fHicqURwIMQ1zJjxoQVRBCVssXRBVR0ZVTEoQMCtJBFNGNVI2VTA1W19fYkUoIXl0dw8aZX0tYQtGWl5VEExTPTYLXEpEKEUgQ350BAEEcg11d3V1CwkU.xml\",\n      \"lang\" : \"es\",\n      \"keyword\" : [ \"EEUU\", \"elecciones\", \"disturbios\", \"armas\", \"distribución\" ],\n      \"event\" : [ \"afpevent:GRE25\" ],\n      \"publicIdentifier\" : \"newsml:afp.com:20201030T202209Z:doc-8u92cx.xml\",\n      \"headline\" : \"Walmart vuelve a colocar las armas en sus estanterías\",\n      \"slug\" : [ \"eeuu\", \"elecciones\", \"disturbios\", \"armas\", \"distribución\" ],\n      \"news\" : [ \"Los hipermercados estadounidenses Walmart decidieron el viernes volver a poner las armas de fuego y las municiones en sus estanterías, un día después de retirarlas a raíz de las violentas protestas en Filadelfia y a pocos días de unas tensas elecciones presidenciales.\", \"Las manifestaciones que siguieron a la muerte de un hombre negro a manos de la policía en Filadelfia derivaron en disturbios el miércoles, que terminaron con varias detenciones. \", \"Como ya había hecho este verano durante las protestas que siguieron a la muerte de George Floyd, un afroestadounidense asesinado por la policía, el grupo decidió nuevamente poner a resguardo las armas de fuego y municiones que vende en cerca de la mitad de sus tiendas. \", \"Ambas decisiones, la de quitar las armas del alcance del público y la de volver a colocarlas, se producen unos días antes de las presidenciales del próximo martes. \", \"En el centro de Washington, muchos edificios comenzaron el miércoles a proteger puertas y ventanas con planchas de contrachapado en previsión de posibles manifestaciones tras la jornada electoral.\", \"...\" ],\n      \"product\" : \"news\",\n      \"created\" : \"2020-10-30T20:22:09Z\",\n      \"iptc\" : [ \"04007005\", \"16003000\", \"11003000\", \"16012000\", \"16000000\", \"04007000\", \"11006000\", \"04000000\", \"11001000\", \"11001005\", \"11000000\" ],\n      \"published\" : \"2020-10-30T20:22:09Z\",\n      \"newsItemID\" : \"doc-8U92CX\",\n      \"revision\" : 1,\n      \"afpentity\" : {\n        \"country\" : [ {\n          \"qcode\" : \"afplocation:206\",\n          \"location\" : {\n            \"lon\" : -98.5,\n            \"lat\" : 39.76\n          },\n          \"keyword\" : \"United States\"\n        } ],\n        \"city\" : [ {\n          \"qcode\" : \"afplocation:80106\",\n          \"location\" : {\n            \"lon\" : -75.16379,\n            \"lat\" : 39.95234\n          },\n          \"keyword\" : \"Philadelphia\"\n        } ],\n        \"person\" : [ {\n          \"qcode\" : \"afpperson:1915965\",\n          \"keyword\" : \"George Floyd\"\n        }, {\n          \"qcode\" : \"afpperson:121505\",\n          \"keyword\" : \"Donald Trump\"\n        } ],\n        \"organisation\" : [ {\n          \"qcode\" : \"afporganization:3715\",\n          \"keyword\" : \"WALMART\"\n        } ],\n        \"geoarea\" : [ {\n          \"qcode\" : \"afplocation:80106\",\n          \"location\" : {\n            \"lon\" : -75.16379,\n            \"lat\" : 39.95234\n          },\n          \"keyword\" : \"Philadelphia\"\n        }, {\n          \"qcode\" : \"afplocation:206\",\n          \"location\" : {\n            \"lon\" : -98.5,\n            \"lat\" : 39.76\n          },\n          \"keyword\" : \"United States\"\n        } ],\n        \"event\" : [ {\n          \"qcode\" : \"afpevent:GRE25\",\n          \"keyword\" : \"#GRE25 : Walmart pulls guns from shopping floors, citing civil unrest\"\n        } ]\n      },\n      \"entity_location\" : [ \"Philadelphia\", \"United States\", \"Washington(US)\" ],\n      \"serial\" : \"a1kkIS0nShZaX0ogSgJaUEVDAgoGdm0cDQUbcwN9H3F3Bh5eIUMyKChoWF9dGFsqVAMGBQAAHAgFdRYfCQAGcQ4fHicqURwIMQ1zJjxoQVRBCVssXRBVR0ZVTEoQMCtJBFNGNVI2VTA1W19fYkUoIXl0dw8aZX0tYQtRTUJZX11FeHMbCQYCeAN3AXB3Agg=.xml\",\n      \"uno\" : \"newsml.afp.com.20201030T202209Z.doc-8u92cx\",\n      \"topic\" : [ \"BOG-GL\", \"SJO-GL\", \"SCL-GL\", \"CCS-GL\", \"LAW-GL\", \"MEX-GL\", \"LIM-GL\", \"RIO-GL\", \"MAS-GL\", \"BUE-GL\", \"HAV-GL\", \"LAW\", \"ALC-ES\", \"BASE-ILLIMITEE-AFPNEWS-ES\", \"LAW_GEN\", \"LAW_ECO\" ],\n      \"objectName\" : \"Walmart vuelve a colocar las armas en sus estanterías\",\n      \"country_only\" : [ \"ALL\" ],\n      \"location\" : {\n        \"lon\" : -74.00597,\n        \"lat\" : 40.71427\n      },\n      \"entity_person\" : [ \"George Floyd\", \"Donald Trump\" ],\n      \"status\" : \"Usable\"\n    }",
+            "attributes": {
+                "ApproximateReceiveCount": "1",
+                "SentTimestamp": "1523232000000",
+                "SenderId": "123456789012",
+                "ApproximateFirstReceiveTimestamp": "1523232000001"
+            },
+            "messageAttributes": {
+                "ContentId": {
+                    "DataType": "String",
+                    "StringValue": "55004133867"
+                },
+                "Source": {
+                    "DataType": "String",
+                    "StringValue": "afp"
+                },
+                "Publish": {
+                    "DataType": "Number",
+                    "StringValue": "0"
+                }
+            },
+            "md5OfBody": "7b270e59b47ff90a553787216d55d91d",
+            "eventSource": "aws:sqs",
+            "eventSourceARN": "arn:aws:sqs:us-east-1:123456789012:MyQueue",
+            "awsRegion": "us-east-1"
+        }
+    ]
+}

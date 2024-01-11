@@ -1,0 +1,10 @@
+{
+  "response": {
+    "status": {
+      "code": 0,
+      "reason": "Success"
+    },
+    "took": 4,
+    "numFound": 0
+  }
+}

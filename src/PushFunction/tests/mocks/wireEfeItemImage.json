@@ -1,0 +1,148 @@
+{
+    "packageInfo": {
+        "id":55005621087,
+        "version":1,
+        "format": {
+            "id":2,
+            "description":"Foto"
+        },
+        "date":"20210301T201237Z",
+        "firstCreated":"20210301T190456Z",
+        "guide":"BRITAIN SOCCER ENGLISH PREMIER LEAGUE",
+        "guideComplements":[],
+        "title":"Everton FC vs Southampton FC",
+        "subtitle":"",
+        "summary":"",
+        "text":"Liverpool (United Kingdom), 01/03/2021.- Lucas Digne of Everton (rear) and Moussa Djenepo of Southampton (front) in action during the English Premier League soccer match between Everton FC and Southampton FC in Liverpool, Britain, 01 March 2021. (Reino Unido) EFE/EPA/Clive Brunskill / POOL EDITORIAL USE ONLY. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 120 images, no video emulation. No use in betting, games or single club/league/player publications.\\n",
+        "wordsCount":85,
+        "keyWords":[],
+        "metaData": {
+            "classification": {
+                "id":1,
+                "description":"Actualidad"
+            },
+            "langCode":"en",
+            "relevance": {
+                "id":5,
+                "description":"Normal"
+            },
+            "iptcList": [{
+                "code":"15054000",
+                "descriptionlevel1":"Deporte",
+                "descriptionlevel2":"Fútbol",
+                "descriptionlevel3":""
+                }],
+            "geoProperties": {
+                "area":"Europa",
+                "countryCode":"GB",
+                "city":"Liverpool"
+                },
+            "source":"EPA/GETTY POOL",
+            "credit":"EFE",
+            "editor":"",
+            "authors":["Clive Brunskill / POOL"]
+            },
+        "objectsCount": {
+            "total":1,
+            "texts":0,
+            "photos":1,
+            "infographics":0,
+            "audios":0,
+            "videos":0,
+            "files":0
+        }
+    },
+    "objects": [{
+        "id":55005621087001,
+        "idSourceFrom":0,
+        "format": {
+            "id":2,
+            "description":"Foto"
+        },
+        "date":"20210301T201200Z",
+        "firstCreated":"20210301T190400Z",
+        "guide":"BRITAIN SOCCER ENGLISH PREMIER LEAGUE",
+        "guideComplements":[],
+        "title":"Everton FC vs Southampton FC",
+        "subtitle":"",
+        "summary":"",
+        "text":"Liverpool (United Kingdom), 01/03/2021.- Lucas Digne of Everton (rear) and Moussa Djenepo of Southampton (front) in action during the English Premier League soccer match between Everton FC and Southampton FC in Liverpool, Britain, 01 March 2021. (Reino Unido) EFE/EPA/Clive Brunskill / POOL EDITORIAL USE ONLY. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 120 images, no video emulation. No use in betting, games or single club/league/player publications.\\n",
+        "wordsCount":85,
+        "keyWords":[],
+        "tabSeparatedText":false,
+        "richText":false,
+        "imageProperties": {
+            "orientation": {
+                "code":"V",
+                "description":"Vertical"
+            },
+            "color": {
+                "code":"C",
+                "description":"Color"
+                },
+            "plane":{}
+        },
+        "metaData": {
+            "langCode":"en",
+            "relevance": {
+                "id":5,
+                "description":"Normal"
+            },
+            "iptcList": [{
+                "code":"15054000",
+                "descriptionlevel1":"Deporte",
+                "descriptionlevel2":"Fútbol",
+                "descriptionlevel3":""
+                }],
+            "geoProperties": {
+                "area":"Europa",
+                "countryCode":"GB",
+                "city":"Liverpool"
+            },
+            "source":"EPA/GETTY POOL",
+            "credit":"EFE",
+            "editor":"cbr ss",
+            "authors":[]
+        },
+        "files": [{
+            "fileName":"28e073c365084c15135bd5c2e0d9582de30ece3d.jpg",
+            "url":"https://apinews.efeservicios.com/files/get/CfDJ8O4n3uYwrW1OsdKmgoLvG9w-YWDzWSeqCJaLxZentizrBCI8CeGtSoryWQMHuJuPEXRw31KrrgQx2wmJMPuIt8l7aFfgGdecd7nuECvS2sNZKCwZxF_yR-ATP5T81BpGkhsjf-jfnD7eykHn9GLvWF8HvAeYLYmj9uNarcAO-WnHKQPSLfYU78JQIb7Mgt4rYSsOSjgshkYiP4spF32M1oojRT28RmlAg9YfdtOtBHb6",
+            "mimeType":"image/jpeg",
+            "width":1575,
+            "height":2362,
+            "bpp":24,
+            "bitrateKbps":0,
+            "sizeBytes":784960
+        },
+        {
+            "fileName":"28e073c365084c15135bd5c2e0d9582de30ece3dp.jpg",
+            "url":"https://apinews.efeservicios.com/files/get/CfDJ8O4n3uYwrW1OsdKmgoLvG9ynmzR0EG9mS9N9IvViAs5oIuhaGYFgZZhYooN5Me-JMIZlZSLb3soID-wJQY8cbFeKGanSxdcs2L46yxv1LG04VD60a6EMJVIk4gvtuJO3Uu8Ux7isFxJCZRm_EpC4bvo_NXG_mvDj3pOI3I4FDlkoeKD_8fqVRVsczWwefu_rKhoWvk1_62eszdTwuOVUTOSlAitnu1wAjtlt6BJJOlee",
+            "mimeType":"image/jpeg",
+            "width":200,
+            "height":300,
+            "bpp":32,
+            "bitrateKbps":0,
+            "sizeBytes":9803
+        },
+        {
+            "fileName":"28e073c365084c15135bd5c2e0d9582de30ece3dm.jpg",
+            "url":"https://apinews.efeservicios.com/files/get/CfDJ8O4n3uYwrW1OsdKmgoLvG9xsRVGceRN_UYTTjNWPe41h1BN0rjaEtzF0lOXKQycneOwnPLrpnnnEYsH2iRG4YmluT0kUbCzPBzLGgyGm6PZe7485Je8oKz-4Ks-TXt-pQSJlx3qo05ZXBHGHdYFlK3EcjcVNNaFIEGeI_pub8GcvkbOfE8HhFUK42DtsHAEzCIW4r0Am58rOc_1Aicj8QFKfF6fA09PPifnUl_T9Ksvw",
+            "mimeType":"image/jpeg",
+            "width":400,
+            "height":600,
+            "bpp":32,
+            "bitrateKbps":0,
+            "sizeBytes":26298
+        },
+        {
+            "fileName":"28e073c365084c15135bd5c2e0d9582de30ece3dw.jpg",
+            "url":"https://apinews.efeservicios.com/files/get/CfDJ8O4n3uYwrW1OsdKmgoLvG9wwOnn1gFNlIvWd4tqUrBFqmuJ3P-NFHUpLkoush83J7VPWm59CoPnzAPtMu9MYfF_mm2f1vKKNCAY0coPG97PebxrJdBRZ3GXEPWkNhXcJzAajJ5vb81nfh2oCXMBqOskEjct1TL4VzMCLgd7YJgn7Lal-0Mm6Y901GhNcbmxh9e9m7fJLAY5KKyJhomBTnZz4XMqjacTaCmUTjGfw4Whq",
+            "mimeType":"image/jpeg",
+            "width":600,
+            "height":900,
+            "bpp":24,
+            "bitrateKbps":0,
+            "sizeBytes":48705
+        }]
+    }]
+}

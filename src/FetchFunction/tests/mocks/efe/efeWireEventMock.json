@@ -1,0 +1,9 @@
+{
+  "name": "efeservicios",
+  "config": {
+    "publish": true,
+    "fetchCriteria": {
+      "productId": "112"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "inbound-wires-lib-layer",
+  "version": "0.1.0",
+  "description": "Common modules used by the Inbound Wires application.",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.712.0",
+    "jest": "^26.0.1"
+  }
+}

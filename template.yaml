@@ -1,0 +1,226 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  inbound-wires
+
+  SAM Template for inbound-wires
+
+Parameters:
+  Env:
+    Description: Environment.
+    Default: dev
+    Type: String
+    AllowedValues: [prod, stg, dev]
+    ConstraintDescription: must specify prod, stg or dev.
+  EfeserviciosApiHostUrl:
+    Type: String
+  EfeserviciosApiClientId:
+    Type: String
+  EfeserviciosApiClientSecret:
+    Type: String
+  ArcApiHostUrl:
+    Type: String
+  ArcApiAccessToken:
+    Type: String
+  AfpApiHostUrl:
+    Type: String
+  AfpApiUsername:
+    Type: String
+  AfpApiPassword:
+    Type: String
+  AfpApiClientId:
+    Type: String
+  AfpApiClientSecret:
+    Type: String
+
+Globals:
+  Function:
+    Timeout: 120
+
+Conditions:
+  IsDev: !Equals [!Ref Env, dev]
+
+Resources:
+  TokensTable:
+    Type: AWS::Serverless::SimpleTable
+    Properties:
+      PrimaryKey:
+        Name: TokenId
+        Type: String
+
+  FetchFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/FetchFunction/
+      Handler: index.handler
+      Runtime: nodejs12.x
+      Environment:
+        Variables:
+          EFESERVICIOS_API_HOST_URL: !Ref EfeserviciosApiHostUrl
+          EFESERVICIOS_API_CLIENT_ID: !Ref EfeserviciosApiClientId
+          EFESERVICIOS_API_CLIENT_SECRET: !Ref EfeserviciosApiClientSecret
+          AFP_API_HOST_URL: !Ref AfpApiHostUrl
+          AWS_QUEUE_URL: !Ref SqsQueue
+          AWS_TOKENS_TABLE_NAME: !Ref TokensTable
+          Env: !Ref Env
+      Events:
+        EFEFetchCategory6027ScheduledEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [IsDev, 'cron(* * * * ? 2014)', rate(5 minutes)]
+            Description: Fetch Efeservicios content from category Coronavirus.
+            Input: '{ "name": "efeservicios", "config": { "fetchCriteria": { "productId": "6027" }, "publish": true } }'
+        EFEFetchCategory4100ScheduledEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [IsDev, 'cron(* * * * ? 2014)', rate(5 minutes)]
+            Description: Fetch Efeservicios content from category PR Newswire.
+            Input: '{ "name": "efeservicios", "config": { "fetchCriteria": { "productId": "4100" }, "publish": true } }'
+        EFEFetchCategory112ScheduledEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [IsDev, 'cron(* * * * ? 2014)', rate(5 minutes)]
+            Description: Fetch Efeservicios content from category Servicio Internacional.
+            Input: '{ "name": "efeservicios", "config": { "fetchCriteria": { "productId": "112" }, "publish": true } }'
+        EFEFetchCategory5433ScheduledEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [IsDev, 'cron(* * * * ? 2014)', rate(5 minutes)]
+            Description: Fetch Efeservicios content from category Firmas .
+            Input: '{ "name": "efeservicios", "config": { "fetchCriteria": { "productId": "5433" }, "publish": true } }'
+        EFEFetchCategory158ScheduledEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [IsDev, 'cron(* * * * ? 2014)', rate(5 minutes)]
+            Description: Fetch Efeservicios content from category Imagenes.
+            Input: '{ "name": "efeservicios", "config": { "fetchCriteria": { "productId": "158" }, "publish": true } }'
+        EFEFetchCategory6033ScheduledEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [IsDev, 'cron(* * * * ? 2014)', rate(5 minutes)]
+            Description: Fetch Efeservicios content from category Imagenes.
+            Input: '{ "name": "efeservicios", "config": { "fetchCriteria": { "productId": "6033" }, "publish": true } }'
+
+        AFPFetchScheduledEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [IsDev, 'cron(* * * * ? 2014)', rate(5 minutes)]
+            Description: Fetch AFP content.
+            Input: '{ "name": "afp", "config": { "publish": true } }'
+      Policies:
+        - SQSSendMessagePolicy:
+            QueueName: !GetAtt SqsQueue.QueueName
+        - DynamoDBReadPolicy:
+            TableName: !Ref TokensTable
+      Layers:
+        - !Ref LibLayer
+
+  PushFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/PushFunction/
+      Handler: index.handler
+      Runtime: nodejs12.x
+      Environment:
+        Variables:
+          ARC_API_HOST_URL: !Ref ArcApiHostUrl
+          ARC_API_ACCESS_TOKEN: !Ref ArcApiAccessToken
+          Env: !Ref Env
+      Events:
+        SqsEvent:
+          Type: SQS
+          Properties:
+            Queue: !GetAtt SqsQueue.Arn
+      Layers:
+        - !Ref LibLayer
+
+  SqsQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      FifoQueue: true
+      ContentBasedDeduplication: true
+      VisibilityTimeout: 120
+
+  LibLayer:
+    Type: AWS::Serverless::LayerVersion
+    Properties:
+      ContentUri: src/layers/LibLayer
+      CompatibleRuntimes:
+        - nodejs12.x
+    Metadata:
+      BuildMethod: nodejs12.x
+
+  RenewTokenFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/RenewTokenFunction/
+      Handler: index.handler
+      Runtime: nodejs12.x
+      Environment:
+        Variables:
+          EFESERVICIOS_API_HOST_URL: !Ref EfeserviciosApiHostUrl
+          EFESERVICIOS_API_CLIENT_ID: !Ref EfeserviciosApiClientId
+          EFESERVICIOS_API_CLIENT_SECRET: !Ref EfeserviciosApiClientSecret
+          AWS_TOKENS_TABLE_NAME: !Ref TokensTable
+          AFP_API_HOST_URL: !Ref AfpApiHostUrl
+          AFP_API_CLIENT_ID: !Ref AfpApiClientId
+          AFP_API_CLIENT_SECRET: !Ref AfpApiClientSecret
+          AFP_API_USERNAME: !Ref AfpApiUsername
+          AFP_API_PASSWORD: !Ref AfpApiPassword
+      Events:
+        RenewEFETokenEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [ IsDev, 'cron(* * * * ? 2014)', rate(23 hours) ]
+            Description: Renew Efeservicios access token
+            Input: '{ "wire": "EFE" }'
+        RenewAFPTokenEvent:
+          Type: Schedule
+          Properties:
+            Schedule: !If [ IsDev, 'cron(* * * * ? 2014)', rate(11 hours) ]
+            Description: Renew Agencia AFP access token
+            Input: '{ "wire": "AFP" }'
+
+      Policies:
+        - DynamoDBWritePolicy:
+            TableName: !Ref TokensTable
+        - DynamoDBReadPolicy:
+            TableName: !Ref TokensTable
+      Layers:
+        - !Ref LibLayer
+
+
+Outputs:
+  FetchFunction:
+    Description: "Inbound Wires Fetch Lambda Function ARN"
+    Value: !GetAtt FetchFunction.Arn
+  FetchFunctionIamRole:
+    Description: "Implicit IAM Role created for Fetch function"
+    Value: !GetAtt FetchFunctionRole.Arn
+  PushFunction:
+    Description: "Inbound Wires Push Lambda Function ARN"
+    Value: !GetAtt PushFunction.Arn
+  PushFunctionIamRole:
+    Description: "Implicit IAM Role created for Push function"
+    Value: !GetAtt PushFunctionRole.Arn
+  RenewTokenFunction:
+    Description: "Inbound Wires Renew Token Lambda Function ARN"
+    Value: !GetAtt RenewTokenFunction.Arn
+  RenewTokenFunctionIamRole:
+    Description: "Implicit IAM Role created for Renew Token function"
+    Value: !GetAtt RenewTokenFunctionRole.Arn
+  LibLayer:
+    Description: "Inbound Wires Lambda LibLayer Function ARN"
+    Value: !Ref LibLayer
+  SqsQueueUrl:
+    Description: "Inbound Wires SQS Queue Url"
+    Value: !Ref SqsQueue
+  SqsQueue:
+    Description: "Inbound Wires SQS Queue ARN"
+    Value: !GetAtt SqsQueue.Arn
+  TokensTable:
+    Description: "Inbound Wires Tokens Table ARN"
+    Value: !GetAtt TokensTable.Arn
+  TokensTableName:
+    Description: "Inbound Wires Tokens Table Name"
+    Value: !Ref TokensTable

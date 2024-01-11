@@ -1,0 +1,9 @@
+{
+    "FetchFunction": {
+        "AWS_QUEUE_URL": "",
+        "AWS_TOKENS_TABLE_NAME": ""
+    },
+    "RenewTokenFunction": {
+        "AWS_TOKENS_TABLE_NAME": ""
+    }
+}

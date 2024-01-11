@@ -1,0 +1,44 @@
+{ "_id":"EJYUJK6PNNATVJNOCFDWCCXZUE",
+  "additional_properties": {
+    "fullSizeResizeUrl":"/resizer/5sR1yv7HTtxstEqYRvvddMUPj70=/arc-anglerfish-arc2-sandbox-sandbox-artear/public/EJYUJK6PNNATVJNOCFDWCCXZUE.jpg",
+    "ingestionMethod":"uploaded",
+    "mime_type":"image/jpeg",
+    "originalName":"eba424a2b91828cb45e2f2500685cd10033cbb5a.jpg",
+    "originalUrl":"https://cloudfront-us-east-1.images.arcpublishing.com/sandbox.artear/EJYUJK6PNNATVJNOCFDWCCXZUE.jpg",
+    "owner":"EFE",
+    "proxyUrl":"/resizer/5sR1yv7HTtxstEqYRvvddMUPj70=/arc-anglerfish-arc2-sandbox-sandbox-artear/public/EJYUJK6PNNATVJNOCFDWCCXZUE.jpg",
+    "published":true,
+    "resizeUrl":"/resizer/5sR1yv7HTtxstEqYRvvddMUPj70=/arc-anglerfish-arc2-sandbox-sandbox-artear/public/EJYUJK6PNNATVJNOCFDWCCXZUE.jpg",
+    "restricted":false,
+    "version":0
+    },
+  "caption":"Dortmund (Germany), 09/03/2021.- Erling Haaland of Borussia Dortmund (R) celebrates with Marco Reus after scoring their side's first goal during the UEFA Champions League Round of 16, second leg match between Borussia Dortmund and Sevilla FC in Dortmund, Germany, 09 March 2021. (Liga de Campeones, Alemania, Rusia) EFE/EPA/LARS BARON / POOL\\n",
+  "created_date":"2021-03-09T20:59:06Z",
+  "credits": {
+    "affiliation":[{
+      "name":"EFE Servicios","type":"author"
+      }]
+    },
+  "distributor": {
+    "category":"wires",
+    "mode":"custom",
+    "name":"EFE Servicios"
+  },
+  "height":3000,
+  "image_type":"photograph",
+  "last_updated_date":"2021-03-09T20:59:06Z",
+  "licensable":false,
+  "owner": {
+    "id":"artear",
+    "sponsored":false
+  },
+  "source": {
+    "name":"EFE Servicios",
+    "source_type":"wires"
+  },
+  "subtitle":"Borussia Dortmund v Sevilla FC",
+  "type":"image",
+  "url":"https://cloudfront-us-east-1.images.arcpublishing.com/sandbox.artear/EJYUJK6PNNATVJNOCFDWCCXZUE.jpg",
+  "version":"0.10.3",
+  "width":2188
+}

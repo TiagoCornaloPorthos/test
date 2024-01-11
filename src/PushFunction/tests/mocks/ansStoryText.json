@@ -1,0 +1,106 @@
+{
+    "canonical_website": "tn",
+    "content_elements": [
+        {
+            "content": "Washington, 12 may (EFE).- La directora gerente del Fondo Monetario Internacional (FMI), Kristalina Georgieva, destacó este martes que ve en Argentina a un Gobierno que \"quiere hacer lo correcto\" y reiteró su \"interés\" en apoyar a Argentina a la hora de encarar su problema de sostenibilidad de deuda. ",
+            "type": "text"
+        },
+        {
+            "content": "\"Lo que veo en Argentina es de hecho a un Gobierno que quiere hacer lo correcto para su propia gente, y para su papel en la región, y la economía global\", dijo Georgieva, que dirige el Fondo desde el pasado año, en una conferencia virtual organizada por el diario Financial Times. ",
+            "type": "text"
+        },
+        {
+            "content": "Las palabras de Georgieva se producen un día después de que el Gobierno argentino dispuso este lunes extender hasta el 22 de mayo el plazo para negociar con los acreedores privados la reestructuración de su deuda pública emitida bajo ley extranjera por 66.239 millones de dólares, con el fin de mejorar el bajo nivel de adhesión que tuvo hasta el vencimiento del viernes pasado. ",
+            "type": "text"
+        },
+        {
+            "content": "\"Estamos ciertamente muy interesados en apoyar a Argentina mientras trata con esta crisis doble, la del coronavirus y el tema de sostenibilidad de deuda, que es claramente bastante serio\", agregó Georgieva. ",
+            "type": "text"
+        },
+        {
+            "content": "No obstante, reiteró que \"tradicionalmente\" el FMI no forma parte de las discusiones entre los países y sus acreedores. ",
+            "type": "text"
+        },
+        {
+            "content": "\"Lo que hemos dejado claro es que la deuda no es sostenible. Y que es en el interés de todo el mundo el que Argentina avance hacia la sostenibilidad de deuda\", insistió. ",
+            "type": "text"
+        },
+        {
+            "content": "El 8 de mayo venció el plazo inicial para aceptar la oferta argentina de canje de deuda, pero la respuesta no habría sido la esperada por el Gobierno del peronista Alberto Fernández, quien el fin de semana se manifestó dispuesto a escuchar \"contraofertas\" y seguir negociando porque \"nadie quiere caer en 'default'\" (cese de pagos). ",
+            "type": "text"
+        },
+        {
+            "content": "La nueva fecha de caducidad de la oferta puesta por Argentina no fue escogida al azar. ",
+            "type": "text"
+        },
+        {
+            "content": "El 22 de mayo expira el plazo de gracia de treinta días al que se acogió Argentina al no pagar en abril un vencimiento por 503 millones de dólares de intereses de tres títulos incluidos en la oferta de canje. ",
+            "type": "text"
+        },
+        {
+            "content": "Con el plazo de adhesión ya prorrogado, si para el 22 de mayo Argentina y los acreedores no logran un acuerdo, el Gobierno de Fernández deberá abonar ese día los intereses vencidos o, de lo contrario, el país entrará técnicamente en un cese de pagos. ",
+            "type": "text"
+        },
+        {
+            "content": "A la par, el FMI mantiene discusiones con Argentina por el préstamo que le concedió en 2018, del que el país ya ha recibido alrededor de 44.000 millones, aunque desde el pasado año no ha habido nuevos desembolsos. EFE ",
+            "type": "text"
+        },
+        {
+            "content": "afs/hma/lnm",
+            "type": "text"
+        },
+        {
+            "content": "",
+            "type": "text"
+        }
+    ],
+    "created_date": "2020-05-12T20:08:58.000Z",
+    "credits": {
+      "by": [{
+        "name": "Agencia EFE",
+        "org": "Agencia EFE",
+        "type": "author"
+      }]
+    },
+    "description": {
+        "basic": ""
+    },
+    "display_date": "2020-05-12T20:08:58Z",
+    "headlines": {
+        "basic": "Georgieva ve en Argentina \"a un Gobierno que quiere hacer lo correcto"
+    },
+    "language": "es",
+    "last_updated_date": "2020-05-12T21:02:48.000Z",
+    "source": {
+        "source_id": "efeservicios-55003721757",
+        "source_type": "wires",
+        "system": "artear i/o"
+    },
+    "subheadlines": {
+        "basic": ""
+    },
+    "promo_items": {
+        "basic": {
+            "_id": "ATGYH6MU3JHQVAYAOFME34Y2BE",
+            "created_date": "2021-02-04T18:48:13Z",
+            "height": 538,
+            "width": 955,
+            "last_updated_date": "2021-02-04T18:48:13Z",
+            "type": "image",
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/sandbox.artear/ATGYH6MU3JHQVAYAOFME34Y2BE.png",
+            "version": "0.10.5"
+          }
+    },
+    "taxonomy": {
+        "tags": [
+            {
+                "description": "EFE",
+                "slug": "efe",
+                "text": "EFE"
+            }
+        ]
+    },
+    "type": "story",
+    "subtype" : "article",
+    "version": "0.10.5"
+}
